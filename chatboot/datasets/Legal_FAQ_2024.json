@@ -1,0 +1,109 @@
+[
+  {
+    "topic": "Miranda Rights (US)",
+    "description": "Constitutional rights police must inform suspects of before custodial interrogation (5th/6th Amendment)",
+    "rights": [
+      "right to remain silent",
+      "anything said can be used in court",
+      "right to an attorney",
+      "if can't afford attorney, one will be appointed"
+    ],
+    "when_required": "Only during custodial interrogation — not during arrest, traffic stops, or spontaneous statements",
+    "if_not_read": "Statements made in violation are inadmissible; arrest is still valid",
+    "origin": "Miranda v. Arizona (1966)"
+  },
+  {
+    "topic": "Intellectual Property Types",
+    "copyright": "Automatic protection for original creative works; life of author + 70 years; no registration required",
+    "patent": "Exclusive right to invention for 20 years; requires USPTO registration; must be novel, non-obvious, useful",
+    "trademark": "Protects brand identifiers (names, logos); indefinite duration with continued use; ® for registered, ™ unregistered",
+    "trade_secret": "Confidential business information; protected indefinitely as long as secret; no registration",
+    "fair_use": "Limited use of copyrighted material for commentary, criticism, education, parody — 4-factor test"
+  },
+  {
+    "topic": "Contracts — Essential Elements",
+    "elements": [
+      "offer (clear proposal)",
+      "acceptance (mirror image of offer)",
+      "consideration (exchange of value)",
+      "capacity (legal age/mental competency)",
+      "legality (lawful purpose)",
+      "mutual assent (meeting of minds)"
+    ],
+    "writing_requirement": "Statute of Frauds: real estate, contracts >1 year, goods >$500 must be in writing",
+    "breach_remedies": [
+      "compensatory damages",
+      "specific performance (unique goods/real estate)",
+      "rescission",
+      "injunction"
+    ],
+    "verbal_contracts": "Generally enforceable but hard to prove; written always preferred"
+  },
+  {
+    "topic": "Employment Law Basics (US)",
+    "at_will": "Most US states: employer or employee can end relationship for any legal reason without notice",
+    "protected_classes": "Race, color, religion, sex, national origin (Title VII), age 40+ (ADEA), disability (ADA), pregnancy (PDA)",
+    "FMLA": "12 weeks unpaid job-protected leave for qualifying medical/family reasons (50+ employee companies)",
+    "wage_theft": "Minimum wage violations, unpaid overtime, tip stealing — report to DOL",
+    "non_compete": "Enforceability varies by state; FTC 2024 rule banning most non-competes (legal challenges pending)",
+    "whistleblower": "Various protections for reporting violations; retaliation prohibited"
+  },
+  {
+    "topic": "Landlord-Tenant Rights",
+    "tenant_rights": [
+      "habitable living conditions (implied warranty of habitability)",
+      "privacy (24-48 hours notice before entry in most states)",
+      "security deposit return within state-specified timeframe",
+      "protection from illegal eviction",
+      "anti-discrimination protections"
+    ],
+    "eviction_process": "Notice → Court filing → Hearing → Writ of possession; 'self-help' eviction illegal in all states",
+    "security_deposit": "Document unit condition on move-in/out; keep evidence; small claims court for disputes",
+    "lease_breaking": "Early termination: may owe remainder or reletting fee; domestic violence exceptions in many states"
+  },
+  {
+    "topic": "Small Claims Court",
+    "description": "Simplified court process for resolving disputes involving modest sums without an attorney",
+    "limits_by_state": "Typically $5,000-$25,000; varies widely (CA: $12,500; TX: $20,000; NY: $10,000)",
+    "process": [
+      "file claim with courthouse",
+      "pay filing fee ($30-100)",
+      "serve defendant",
+      "attend hearing",
+      "judge decides"
+    ],
+    "suitable_for": [
+      "security deposit disputes",
+      "minor contract breaches",
+      "property damage",
+      "consumer disputes",
+      "unpaid wages"
+    ],
+    "tips": [
+      "bring documentation",
+      "be concise",
+      "know the law",
+      "collect evidence early"
+    ]
+  },
+  {
+    "topic": "Consumer Rights (US)",
+    "key_laws": [
+      {
+        "FCRA": "Fair Credit Reporting Act — right to dispute errors; free annual credit reports"
+      },
+      {
+        "FDCPA": "Fair Debt Collection Practices Act — prohibits harassment by debt collectors"
+      },
+      {
+        "TILA": "Truth in Lending Act — requires APR disclosure"
+      },
+      {
+        "TCPA": "prohibits unsolicited calls/texts; $500-1,500 per violation"
+      }
+    ],
+    "lemon_law": "New car defects: 3-4 repair attempts or 30 days out of service in first 1-2 years",
+    "chargeback": "Credit card dispute for undelivered goods, fraud, or misrepresentation — 60-120 day window",
+    "FTC_role": "Enforces consumer protection; file complaints at ReportFraud.ftc.gov"
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "topic": "Cognitive Behavioral Therapy (CBT)",
+    "description": "Evidence-based psychotherapy that identifies and changes negative thought patterns and behaviors",
+    "uses": [
+      "depression",
+      "anxiety",
+      "PTSD",
+      "OCD",
+      "eating disorders"
+    ],
+    "techniques": [
+      "thought challenging",
+      "behavioral activation",
+      "exposure therapy",
+      "cognitive restructuring"
+    ],
+    "duration": "12-20 sessions typically",
+    "effectiveness": "One of the most well-researched therapies; 50-60% response rate for depression"
+  },
+  {
+    "topic": "Burnout Syndrome",
+    "description": "State of chronic workplace stress causing exhaustion, cynicism, and reduced efficacy",
+    "symptoms": [
+      "emotional exhaustion",
+      "depersonalization",
+      "reduced personal accomplishment",
+      "physical fatigue",
+      "cynicism"
+    ],
+    "causes": [
+      "excessive workload",
+      "lack of control",
+      "poor work-life balance",
+      "unclear expectations",
+      "lack of support"
+    ],
+    "recovery": [
+      "set boundaries",
+      "rest and sleep",
+      "therapy",
+      "exercise",
+      "hobby reengagement",
+      "workload reduction"
+    ],
+    "icd11": "QD85"
+  },
+  {
+    "topic": "Post-Traumatic Stress Disorder (PTSD)",
+    "description": "Mental health condition triggered by experiencing or witnessing a traumatic event",
+    "symptoms": [
+      "flashbacks",
+      "nightmares",
+      "hypervigilance",
+      "emotional numbness",
+      "avoidance",
+      "negative cognitions"
+    ],
+    "treatments": [
+      "EMDR",
+      "Prolonged Exposure therapy",
+      "CPT",
+      "SSRIs (sertraline, paroxetine)",
+      "prazosin for nightmares"
+    ],
+    "prevalence": "About 20% of people exposed to trauma develop PTSD"
+  },
+  {
+    "topic": "Mindfulness Meditation",
+    "description": "Practice of intentional, non-judgmental present-moment awareness",
+    "benefits": [
+      "reduces anxiety and depression",
+      "lowers cortisol",
+      "improves focus",
+      "reduces chronic pain perception",
+      "improves sleep"
+    ],
+    "types": [
+      "body scan",
+      "breath awareness",
+      "loving-kindness (metta)",
+      "mindful movement"
+    ],
+    "research": "Meta-analyses show moderate effect sizes for anxiety and depression reduction",
+    "apps": [
+      "Headspace",
+      "Calm",
+      "Insight Timer"
+    ]
+  },
+  {
+    "topic": "Attachment Theory",
+    "description": "Psychological model describing how early caregiver bonds shape adult relationships",
+    "styles": [
+      "secure (comfortable with intimacy)",
+      "anxious-preoccupied (fear of abandonment)",
+      "dismissive-avoidant (discomfort with closeness)",
+      "fearful-avoidant (desire intimacy but fear rejection)"
+    ],
+    "developed_by": "John Bowlby and Mary Ainsworth",
+    "clinical_relevance": "Attachment style influences relationship patterns, therapy engagement, and mental health outcomes"
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "description": "Ability to recognize, understand, manage, and use emotions effectively",
+    "components": [
+      "self-awareness",
+      "self-regulation",
+      "motivation",
+      "empathy",
+      "social skills"
+    ],
+    "measurement": "EQ-i 2.0, MSCEIT assessments",
+    "importance": "Linked to leadership effectiveness, relationship quality, and mental health resilience",
+    "development": [
+      "journaling",
+      "therapy",
+      "mindfulness",
+      "feedback-seeking",
+      "empathy practice"
+    ]
+  },
+  {
+    "topic": "Narcissistic Personality Disorder (NPD)",
+    "description": "Pervasive pattern of grandiosity, need for admiration, and lack of empathy",
+    "symptoms": [
+      "grandiose sense of self-importance",
+      "preoccupation with fantasies of power",
+      "sense of entitlement",
+      "exploitative behavior",
+      "lacks empathy",
+      "envious of others"
+    ],
+    "prevalence": "1-6% of general population, higher in men",
+    "treatment": "Long-term psychotherapy (psychodynamic, CBT); no approved medications",
+    "note": "Distinct from healthy self-confidence; must cause significant impairment"
+  },
+  {
+    "topic": "Grief and Bereavement",
+    "description": "Natural emotional response to loss; stages are non-linear and individual",
+    "models": [
+      "Kübler-Ross 5 stages: denial, anger, bargaining, depression, acceptance",
+      "Worden's 4 tasks of mourning",
+      "Dual Process Model"
+    ],
+    "complicated_grief": "Persistent complex bereavement disorder when grief is prolonged/disabling (>12 months)",
+    "support": [
+      "grief counseling",
+      "support groups",
+      "therapy",
+      "ritual and meaning-making",
+      "allow natural process"
+    ],
+    "timeline": "No fixed timeline; most adapt within 1-2 years, though grief may resurface"
+  },
+  {
+    "topic": "Substance Use Disorder",
+    "description": "Chronic brain disorder characterized by compulsive substance use despite harmful consequences",
+    "substances": [
+      "alcohol",
+      "opioids",
+      "stimulants",
+      "cannabis",
+      "benzodiazepines",
+      "hallucinogens"
+    ],
+    "criteria": [
+      "tolerance",
+      "withdrawal",
+      "loss of control",
+      "continued use despite harm"
+    ],
+    "treatments": [
+      "detoxification",
+      "MAT (methadone, buprenorphine, naltrexone)",
+      "12-step programs",
+      "CBT",
+      "motivational interviewing"
+    ],
+    "neuroscience": "Hijacks dopamine reward circuitry; prefrontal cortex dysregulation impairs control"
+  },
+  {
+    "topic": "Sleep and Mental Health",
+    "description": "Bidirectional relationship: mental health disorders disrupt sleep; poor sleep worsens mental health",
+    "connections": [
+      "insomnia increases depression risk 2x",
+      "sleep deprivation mimics psychosis symptoms",
+      "REM sleep critical for emotional regulation",
+      "nightmares common in PTSD"
+    ],
+    "interventions": [
+      "CBT for Insomnia (CBT-I)",
+      "sleep hygiene",
+      "melatonin",
+      "treat underlying disorder"
+    ],
+    "sleep_stages": [
+      "N1 (light)",
+      "N2 (light-deeper)",
+      "N3 (deep/slow-wave)",
+      "REM (dreaming, memory consolidation)"
+    ]
+  },
+  {
+    "topic": "Social Anxiety Disorder",
+    "description": "Intense fear of social situations due to fear of scrutiny, embarrassment, or humiliation",
+    "symptoms": [
+      "avoidance of social situations",
+      "blushing/trembling",
+      "racing heart in social settings",
+      "anticipatory anxiety",
+      "post-event rumination"
+    ],
+    "prevalence": "7% globally; 3rd most common mental disorder",
+    "treatments": [
+      "CBT with exposure",
+      "SSRIs (sertraline, paroxetine)",
+      "venlafaxine",
+      "beta-blockers for performance anxiety"
+    ],
+    "differentiation": "Normal shyness vs disorder: does it significantly impair functioning?"
+  },
+  {
+    "topic": "Neuroplasticity",
+    "description": "Brain's ability to reorganize itself by forming new neural connections throughout life",
+    "types": [
+      "structural (physical brain changes)",
+      "functional (altered activation patterns)"
+    ],
+    "driven_by": [
+      "learning",
+      "exercise",
+      "meditation",
+      "therapy",
+      "novel experiences"
+    ],
+    "clinical_relevance": "Basis for why therapy and behavioral interventions work; recovery possible after brain injury",
+    "activities_promoting": [
+      "learning a language",
+      "musical training",
+      "aerobic exercise",
+      "meditation",
+      "CBT"
+    ]
+  }
+]

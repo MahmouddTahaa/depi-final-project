@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+**/.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime data
+data/
+indexes/
+models/
+eval_runs/
+*.index
+*.pkl
+*.npy
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+chatboot_py/data/
+chatboot_py/indexes/
+chatboot_py/models/
+chatboot_py/eval_runs/
+chatboot_py/venv/
+chatboot_py/__pycache__/
+chatboot_py/core/__pycache__/

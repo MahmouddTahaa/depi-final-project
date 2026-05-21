@@ -1,0 +1,142 @@
+[
+  {
+    "event": "World War I (1914-1918)",
+    "causes": [
+      "assassination of Archduke Franz Ferdinand",
+      "alliance system (Triple Entente vs Triple Alliance)",
+      "militarism",
+      "imperial competition",
+      "nationalism in Balkans"
+    ],
+    "key_battles": [
+      "Battle of the Marne",
+      "Battle of Verdun (700,000 casualties)",
+      "Battle of the Somme (60,000 British casualties day 1)",
+      "Gallipoli Campaign"
+    ],
+    "outcome": "15-20 million deaths; collapse of Ottoman, Austro-Hungarian, Russian, German empires; Treaty of Versailles; League of Nations created",
+    "legacy": "Set conditions for WWII; redrew world map; trench warfare paradigm; chemical weapons first used"
+  },
+  {
+    "event": "World War II (1939-1945)",
+    "causes": [
+      "Treaty of Versailles resentment",
+      "Great Depression",
+      "rise of fascism (Hitler, Mussolini)",
+      "appeasement policy failure",
+      "Japanese imperial expansion"
+    ],
+    "key_events": [
+      "Holocaust (6M Jews, 6M others)",
+      "Battle of Britain",
+      "Operation Barbarossa",
+      "Pearl Harbor (Dec 7, 1941)",
+      "D-Day (June 6, 1944)",
+      "Atomic bombings of Hiroshima and Nagasaki"
+    ],
+    "outcome": "70-85 million deaths (deadliest conflict in history); UN founded; Cold War begins; decolonization accelerates; Marshall Plan; Nuremberg trials",
+    "legacy": "Established international law framework, human rights conventions, post-war liberal order"
+  },
+  {
+    "event": "Cold War (1947-1991)",
+    "description": "Geopolitical tension between US-led Western bloc and Soviet-led Eastern bloc",
+    "key_events": [
+      "Berlin Blockade (1948)",
+      "Korean War (1950-53)",
+      "Cuban Missile Crisis (1962 — closest to nuclear war)",
+      "Vietnam War",
+      "Space Race (1957-1969)",
+      "Soviet-Afghan War (1979-89)",
+      "Fall of Berlin Wall (1989)",
+      "USSR dissolution (1991)"
+    ],
+    "ideology": "Democracy/capitalism vs communism/central planning",
+    "proxy_wars": "Dozens of conflicts worldwide; Korea, Vietnam, Angola, Nicaragua, Afghanistan",
+    "nuclear": "Mutually Assured Destruction (MAD) doctrine prevented direct superpower conflict; 70,000+ warheads at peak"
+  },
+  {
+    "event": "Industrial Revolution (1760-1840)",
+    "origin": "Great Britain; spread to Europe and North America",
+    "innovations": [
+      "steam engine (James Watt)",
+      "spinning jenny",
+      "power loom",
+      "iron production",
+      "railways",
+      "telegraph"
+    ],
+    "social_impact": [
+      "urbanization",
+      "rise of middle class",
+      "child labor",
+      "labor movement emergence",
+      "environmental pollution begins"
+    ],
+    "economic": "GDP per capita began exponential growth after millennia of stagnation; first sustained economic growth in human history",
+    "legacy": "Foundation of modern capitalism; fossil fuel dependence; global trade networks; technological acceleration"
+  },
+  {
+    "event": "French Revolution (1789-1799)",
+    "causes": [
+      "fiscal crisis of French monarchy",
+      "Enlightenment ideas",
+      "food shortages",
+      "inequality between estates",
+      "inspiration from American Revolution"
+    ],
+    "phases": [
+      "moderate (1789-1792)",
+      "radical Reign of Terror (1793-94, ~40,000 executed)",
+      "Thermidorian Reaction",
+      "Directory",
+      "Napoleon's coup (1799)"
+    ],
+    "key_events": [
+      "storming of Bastille (July 14)",
+      "Declaration of Rights of Man",
+      "execution of Louis XVI and Marie Antoinette"
+    ],
+    "legacy": "Spread of democracy and nationalism; Napoleonic Wars; end of feudalism; metric system; modern state concept"
+  },
+  {
+    "event": "Decolonization (1945-1975)",
+    "description": "Dismantling of European colonial empires, mostly in Africa and Asia",
+    "causes": [
+      "WWII weakened European powers",
+      "US/USSR anti-colonial stance",
+      "Atlantic Charter",
+      "rise of nationalist movements",
+      "economic burden of empire"
+    ],
+    "key_events": [
+      "Indian independence (1947)",
+      "Israel/Palestine partition (1947)",
+      "Indonesian independence (1949)",
+      "Year of Africa (1960 — 17 nations)",
+      "Algerian War (1954-62)",
+      "Vietnamese independence (1975)"
+    ],
+    "legacy": "Creation of 80+ new nations; Cold War proxy conflicts in newly independent states; economic and political challenges of post-colonial states"
+  },
+  {
+    "event": "The Renaissance (1300-1600)",
+    "description": "Cultural and intellectual rebirth beginning in Italy; revival of classical learning",
+    "key_figures": [
+      "Leonardo da Vinci (art, science)",
+      "Michelangelo",
+      "Galileo Galilei",
+      "Niccolò Machiavelli",
+      "Gutenberg (printing press 1440)",
+      "Copernicus (heliocentric model)"
+    ],
+    "themes": [
+      "humanism",
+      "secularism",
+      "individualism",
+      "classical revival",
+      "empirical observation"
+    ],
+    "spread": "Italy → Northern Europe; printing press accelerated dissemination enormously",
+    "legacy": "Foundation for Scientific Revolution, Protestant Reformation, Age of Exploration, Enlightenment"
+  }
+]

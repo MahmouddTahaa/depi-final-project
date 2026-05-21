@@ -1,0 +1,115 @@
+[
+  {
+    "topic": "Progressive Overload",
+    "description": "Gradual increase of stress on body during exercise — foundational principle of all fitness improvement",
+    "methods": [
+      "increase weight",
+      "increase reps",
+      "increase sets",
+      "decrease rest time",
+      "increase range of motion",
+      "increase frequency"
+    ],
+    "rate": "2.5-5% weekly increase for strength; avoid >10% volume increase per week (injury risk)",
+    "tracking": "Keep training log; if plateau for 2+ weeks, reassess programming",
+    "applies_to": "All fitness goals: strength, hypertrophy, endurance, flexibility"
+  },
+  {
+    "topic": "RICE / PRICE Protocol",
+    "description": "First-aid treatment for acute musculoskeletal injuries",
+    "PRICE": [
+      "Protection (immobilize)",
+      "Rest (avoid aggravating activity)",
+      "Ice (15-20 min, every 2-3 hours, first 48-72h)",
+      "Compression (reduces swelling)",
+      "Elevation (above heart level)"
+    ],
+    "updated_protocol": "PEACE & LOVE (2020): Protection, Elevation, Avoid anti-inflammatories, Compression, Education → Load, Optimism, Vascularization, Exercise",
+    "when_to_see_doctor": "Unable to bear weight, significant swelling, deformity, numbness, no improvement in 72h"
+  },
+  {
+    "topic": "VO2 Max",
+    "description": "Maximum oxygen consumption during exercise — gold standard of cardiovascular fitness",
+    "measurement": "mL/kg/min; tested via graded exercise test or estimated from field tests (Cooper 12-min run)",
+    "norms": "Elite male endurance athletes: 70-85; average untrained male: 35-40; female: 10-15% lower",
+    "improvement": [
+      "interval training (HIIT)",
+      "zone 2 training (50-70% max HR)",
+      "consistent aerobic exercise"
+    ],
+    "health_relevance": "Strong predictor of longevity; low VO2max linked to cardiovascular disease and all-cause mortality"
+  },
+  {
+    "topic": "Muscle Hypertrophy",
+    "description": "Increase in muscle fiber size (cross-sectional area) through resistance training",
+    "mechanisms": [
+      "mechanical tension (primary driver)",
+      "metabolic stress (pump)",
+      "muscle damage (secondary)"
+    ],
+    "optimal_rep_range": "6-30 reps effective if taken close to failure; 8-12 'hypertrophy range' not uniquely superior",
+    "volume": "10-20 sets per muscle per week for most; higher for advanced trainees",
+    "protein": "1.6-2.2g/kg body weight per day for maximum hypertrophy",
+    "rest": "Muscle protein synthesis elevated 24-48h post-training; train each muscle 2x/week optimal"
+  },
+  {
+    "topic": "Common Running Injuries",
+    "injuries": [
+      {
+        "IT Band Syndrome": "lateral knee pain; hip weakness; foam roll, strengthen glutes, reduce mileage"
+      },
+      {
+        "Plantar Fasciitis": "heel pain morning; calf stretching, supportive footwear, night splints"
+      },
+      {
+        "Runner's Knee (PFPS)": "anterior knee pain; quad strengthening, biomechanics assessment"
+      },
+      {
+        "Shin Splints": "medial tibial stress syndrome; reduce mileage, bone stress reaction risk"
+      },
+      {
+        "Achilles Tendinopathy": "eccentric heel drops (Alfredson protocol) gold standard treatment"
+      }
+    ],
+    "prevention": [
+      "gradual mileage increase (<10%/week)",
+      "strength training",
+      "adequate recovery",
+      "proper footwear",
+      "run on softer surfaces"
+    ]
+  },
+  {
+    "topic": "Sleep and Recovery",
+    "importance": "Sleep is the most powerful recovery tool; muscle protein synthesis peaks during deep sleep",
+    "sleep_debt": "Each hour of lost sleep reduces performance ~5%; cumulative impairment underestimated by individuals",
+    "athletes_need": "8-10 hours for athletes; elite sports teams targeting 9+ hours",
+    "optimization": [
+      "cool dark room (65-68°F)",
+      "consistent sleep schedule",
+      "no screens 30-60 min before",
+      "limit alcohol (disrupts REM)",
+      "magnesium glycinate supplementation"
+    ],
+    "overtraining": "HRV (heart rate variability) best objective marker of recovery status"
+  },
+  {
+    "topic": "Flexibility and Mobility",
+    "types": [
+      {
+        "static stretching": "hold 30-60s; best after exercise; limited pre-workout performance benefit"
+      },
+      {
+        "dynamic stretching": "controlled movement through range; optimal warm-up"
+      },
+      {
+        "PNF stretching": "proprioceptive neuromuscular facilitation; most effective for flexibility gains"
+      },
+      {
+        "foam rolling (SMR)": "self-myofascial release; temporary ROM improvements; reduces DOMS"
+      }
+    ],
+    "mobility_vs_flexibility": "Flexibility: passive ROM; Mobility: active controlled ROM with strength — mobility more functional",
+    "daily_routine": "10 minutes of hip mobility, thoracic spine, and ankle work prevents most common movement dysfunctions"
+  }
+]

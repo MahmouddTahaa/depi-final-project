@@ -1,0 +1,149 @@
+[
+  {
+    "topic": "Global Warming",
+    "description": "Rise in Earth's average temperature primarily due to human greenhouse gas emissions since industrial revolution",
+    "current_state": "1.2°C above pre-industrial baseline as of 2024; hottest year on record in 2023 and 2024",
+    "targets": "Paris Agreement: limit to 1.5°C; current policies track toward 2.5-3°C",
+    "evidence": [
+      "97% scientific consensus",
+      "Arctic sea ice loss 13% per decade",
+      "sea level rise 3.7mm/year",
+      "ocean acidification",
+      "extreme weather increase"
+    ],
+    "tipping_points": [
+      "West Antarctic Ice Sheet collapse",
+      "Amazon dieback",
+      "permafrost methane release",
+      "Atlantic circulation slowdown"
+    ]
+  },
+  {
+    "topic": "Greenhouse Gases",
+    "gases": [
+      {
+        "CO2": "most abundant; 420ppm (2024); stays in atmosphere 300-1000 years"
+      },
+      {
+        "methane (CH4)": "80x more potent than CO2 over 20 years; from livestock, wetlands, gas"
+      },
+      {
+        "N2O": "300x CO2 potency; from agriculture and fertilizers"
+      },
+      {
+        "F-gases": "industrial; extremely potent"
+      }
+    ],
+    "sources": [
+      "energy 34%",
+      "agriculture 24%",
+      "industry 21%",
+      "transport 15%",
+      "buildings 6%"
+    ],
+    "natural_sinks": [
+      "forests",
+      "oceans (absorb ~25% each of CO2 emissions)",
+      "soils"
+    ],
+    "concentrations": "CO2 highest in 3 million years; CH4 highest in 800,000 years"
+  },
+  {
+    "topic": "Renewable Energy",
+    "types": [
+      {
+        "solar PV": "fastest growing; costs down 90% since 2010; 580GW installed 2023"
+      },
+      {
+        "wind": "onshore and offshore; 900GW global capacity"
+      },
+      {
+        "hydropower": "oldest and largest renewable; 1,400GW"
+      },
+      {
+        "geothermal": "stable baseload; limited to specific regions"
+      }
+    ],
+    "solar_growth": "IEA: solar will be largest electricity source by 2033",
+    "cost_trend": "Solar and wind now cheapest new electricity sources in 90% of world",
+    "challenges": [
+      "intermittency",
+      "grid storage",
+      "land use",
+      "mining for minerals (lithium, cobalt)"
+    ],
+    "storage": "Battery storage capacity doubling every 2-3 years; pumped hydro provides 90% of storage"
+  },
+  {
+    "topic": "Carbon Capture",
+    "types": [
+      "nature-based (reforestation, soil carbon, mangroves)",
+      "technological (DACCS — direct air capture)",
+      "point-source (industrial facilities)",
+      "bioenergy with CCS (BECCS)"
+    ],
+    "DACCS": "Current cost ~$400-1000/ton CO2; needs to reach <$100 to be economically viable; Climeworks, Carbon Engineering leading",
+    "limitation": "Even at max deployment, cannot substitute for emissions reductions; supplement only",
+    "ocean_options": [
+      "kelp farming",
+      "ocean iron fertilization (controversial)",
+      "alkalinity enhancement"
+    ]
+  },
+  {
+    "topic": "Biodiversity Loss",
+    "description": "Current extinction rate 100-1000x background rate; termed 6th mass extinction",
+    "drivers": [
+      "habitat destruction (primary)",
+      "climate change",
+      "overexploitation",
+      "invasive species",
+      "pollution"
+    ],
+    "scale": "1 million species threatened with extinction; 40% of insect species declining",
+    "ecosystem_services": "Biodiversity provides $33 trillion/year in services (pollination, water purification, climate regulation)",
+    "Kunming_Montreal": "2022 global agreement: protect 30% of land and ocean by 2030 (30x30)",
+    "solutions": [
+      "rewilding",
+      "protected areas",
+      "sustainable agriculture",
+      "invasive species removal"
+    ]
+  },
+  {
+    "topic": "Circular Economy",
+    "description": "Economic model eliminating waste by keeping materials in use as long as possible",
+    "principles": [
+      "design out waste",
+      "keep products and materials in use",
+      "regenerate natural systems"
+    ],
+    "vs_linear": "Linear: take-make-dispose; Circular: reduce, reuse, repair, recycle, recover",
+    "examples": [
+      "Patagonia repair programs",
+      "car-sharing (Zipcar)",
+      "industrial symbiosis (Kalundborg)",
+      "product-as-a-service models"
+    ],
+    "potential": "Ellen MacArthur Foundation: circular economy could halve emissions by 2030 in key sectors"
+  },
+  {
+    "topic": "Ocean Health",
+    "issues": [
+      "acidification (30% more acidic since industrial revolution)",
+      "plastic pollution (8M tons enter ocean annually)",
+      "warming (coral bleaching)",
+      "deoxygenation",
+      "overfishing"
+    ],
+    "coral_reefs": "50% of shallow water coral lost since 1950; at 2°C, 99% at risk; critical habitat for 25% of marine species",
+    "plastic": "Expected to outweigh fish in ocean by 2050 by weight if trends continue",
+    "solutions": [
+      "marine protected areas",
+      "fishing quotas",
+      "plastic regulation (Global Plastics Treaty 2024)",
+      "coral restoration",
+      "sustainable aquaculture"
+    ]
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "disease": "Influenza (Flu)",
+    "symptoms": [
+      "fever",
+      "chills",
+      "muscle aches",
+      "cough",
+      "sore throat",
+      "runny nose",
+      "headache",
+      "fatigue"
+    ],
+    "causes": "Influenza A or B virus, spread via droplets",
+    "risk_factors": [
+      "elderly",
+      "immunocompromised",
+      "unvaccinated",
+      "crowded settings"
+    ],
+    "treatments": [
+      "rest",
+      "fluids",
+      "antiviral drugs (oseltamivir/Tamiflu)",
+      "acetaminophen for fever"
+    ],
+    "prevention": "Annual flu vaccine",
+    "when_to_see_doctor": "High fever >103°F, breathing difficulty, persistent vomiting",
+    "icd10": "J09-J11",
+    "category": "Respiratory / Viral"
+  },
+  {
+    "disease": "COVID-19",
+    "symptoms": [
+      "fever",
+      "dry cough",
+      "fatigue",
+      "loss of taste or smell",
+      "shortness of breath",
+      "sore throat",
+      "headache",
+      "body aches",
+      "diarrhea"
+    ],
+    "causes": "SARS-CoV-2 virus, airborne and droplet transmission",
+    "risk_factors": [
+      "elderly",
+      "obesity",
+      "diabetes",
+      "cardiovascular disease",
+      "immunosuppression"
+    ],
+    "treatments": [
+      "supportive care",
+      "antivirals (Paxlovid, remdesivir)",
+      "oxygen therapy for severe cases",
+      "corticosteroids"
+    ],
+    "prevention": "COVID-19 vaccines, masking, ventilation",
+    "when_to_see_doctor": "Persistent chest pain, confusion, inability to stay awake, bluish lips",
+    "icd10": "U07.1",
+    "category": "Respiratory / Viral"
+  },
+  {
+    "disease": "Hypertension (High Blood Pressure)",
+    "symptoms": [
+      "usually asymptomatic",
+      "headache",
+      "dizziness",
+      "blurred vision",
+      "chest pain in severe cases"
+    ],
+    "causes": "Primary (idiopathic) or secondary to kidney disease, hormonal disorders, medications",
+    "risk_factors": [
+      "obesity",
+      "high salt diet",
+      "smoking",
+      "sedentary lifestyle",
+      "family history",
+      "age >55"
+    ],
+    "treatments": [
+      "ACE inhibitors",
+      "beta-blockers",
+      "diuretics",
+      "calcium channel blockers",
+      "lifestyle changes"
+    ],
+    "prevention": "Low-sodium diet, exercise, weight management, smoking cessation",
+    "when_to_see_doctor": "BP >180/120, severe headache, chest pain, vision changes",
+    "icd10": "I10",
+    "category": "Cardiovascular"
+  },
+  {
+    "disease": "Type 2 Diabetes",
+    "symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "fatigue",
+      "blurred vision",
+      "slow-healing wounds",
+      "tingling in hands/feet",
+      "unexplained weight loss"
+    ],
+    "causes": "Insulin resistance, pancreatic beta cell dysfunction",
+    "risk_factors": [
+      "obesity",
+      "physical inactivity",
+      "family history",
+      "age >45",
+      "prediabetes",
+      "gestational diabetes history"
+    ],
+    "treatments": [
+      "metformin",
+      "insulin therapy",
+      "GLP-1 agonists",
+      "SGLT2 inhibitors",
+      "diet and exercise"
+    ],
+    "prevention": "Weight loss, physical activity, Mediterranean diet",
+    "when_to_see_doctor": "Blood sugar >250 mg/dL, ketoacidosis symptoms, foot ulcers",
+    "icd10": "E11",
+    "category": "Endocrine / Metabolic"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "chronic cough especially at night"
+    ],
+    "causes": "Airway inflammation, triggered by allergens, exercise, cold air, infections",
+    "risk_factors": [
+      "family history",
+      "allergies",
+      "obesity",
+      "smoking exposure",
+      "air pollution"
+    ],
+    "treatments": [
+      "inhaled corticosteroids",
+      "bronchodilators (albuterol)",
+      "leukotriene modifiers",
+      "biologics for severe asthma"
+    ],
+    "prevention": "Avoid triggers, allergy treatment, annual flu vaccine",
+    "when_to_see_doctor": "Severe breathlessness, blue lips, no relief from inhaler",
+    "icd10": "J45",
+    "category": "Respiratory"
+  },
+  {
+    "disease": "Pneumonia",
+    "symptoms": [
+      "high fever",
+      "productive cough",
+      "chills",
+      "chest pain on breathing",
+      "shortness of breath",
+      "fatigue",
+      "confusion in elderly"
+    ],
+    "causes": "Bacterial (Streptococcus pneumoniae), viral (influenza, COVID-19), fungal",
+    "risk_factors": [
+      "elderly",
+      "immunocompromised",
+      "smoking",
+      "COPD",
+      "recent viral illness"
+    ],
+    "treatments": [
+      "antibiotics (amoxicillin, azithromycin)",
+      "antivirals if viral",
+      "oxygen therapy",
+      "hospitalization for severe cases"
+    ],
+    "prevention": "Pneumococcal vaccine, flu vaccine, hand hygiene",
+    "when_to_see_doctor": "Rapid breathing, O2 saturation <94%, confusion, sepsis signs",
+    "icd10": "J18",
+    "category": "Respiratory / Infectious"
+  },
+  {
+    "disease": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "cloudy or bloody urine",
+      "pelvic pain",
+      "strong urine odor",
+      "fever if kidney involved"
+    ],
+    "causes": "Escherichia coli (80% of cases), Staphylococcus saprophyticus",
+    "risk_factors": [
+      "female sex",
+      "sexual activity",
+      "menopause",
+      "urinary catheters",
+      "urinary tract abnormalities"
+    ],
+    "treatments": [
+      "antibiotics (trimethoprim, nitrofurantoin, ciprofloxacin)",
+      "increased fluid intake"
+    ],
+    "prevention": "Hydration, urinate after sex, wipe front to back",
+    "when_to_see_doctor": "High fever, flank pain, nausea/vomiting (kidney infection signs)",
+    "icd10": "N39.0",
+    "category": "Urological / Infectious"
+  },
+  {
+    "disease": "Major Depressive Disorder",
+    "symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep disturbances",
+      "appetite changes",
+      "difficulty concentrating",
+      "feelings of worthlessness",
+      "suicidal ideation"
+    ],
+    "causes": "Neurochemical imbalance, genetic predisposition, stress, trauma, chronic illness",
+    "risk_factors": [
+      "family history",
+      "trauma",
+      "chronic pain",
+      "substance abuse",
+      "hormonal changes"
+    ],
+    "treatments": [
+      "SSRIs (sertraline, fluoxetine)",
+      "SNRIs",
+      "psychotherapy (CBT)",
+      "TMS",
+      "ECT for severe cases"
+    ],
+    "prevention": "Stress management, social support, regular exercise, sleep hygiene",
+    "when_to_see_doctor": "Suicidal thoughts, inability to function, psychotic features",
+    "icd10": "F32",
+    "category": "Mental Health"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": [
+      "throbbing headache (often one-sided)",
+      "nausea",
+      "vomiting",
+      "light sensitivity",
+      "sound sensitivity",
+      "visual aura",
+      "pain worsened by activity"
+    ],
+    "causes": "Neurological disorder, triggered by hormones, stress, food, sleep changes, sensory stimuli",
+    "risk_factors": [
+      "female sex",
+      "family history",
+      "hormonal changes",
+      "stress",
+      "obesity"
+    ],
+    "treatments": [
+      "triptans (sumatriptan)",
+      "NSAIDs",
+      "anti-nausea medications",
+      "CGRP antagonists",
+      "preventive: topiramate, beta-blockers"
+    ],
+    "prevention": "Identify and avoid triggers, regular sleep schedule, magnesium supplementation",
+    "when_to_see_doctor": "Worst headache of life, fever with headache, neurological symptoms",
+    "icd10": "G43",
+    "category": "Neurological"
+  },
+  {
+    "disease": "Osteoarthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness (especially morning)",
+      "swelling",
+      "reduced range of motion",
+      "grating sensation",
+      "bone spurs"
+    ],
+    "causes": "Cartilage breakdown due to aging, injury, repetitive stress",
+    "risk_factors": [
+      "age >50",
+      "obesity",
+      "joint injury",
+      "repetitive movements",
+      "female sex",
+      "genetics"
+    ],
+    "treatments": [
+      "NSAIDs",
+      "acetaminophen",
+      "physical therapy",
+      "corticosteroid injections",
+      "hyaluronic acid",
+      "joint replacement surgery"
+    ],
+    "prevention": "Maintain healthy weight, regular low-impact exercise, injury prevention",
+    "when_to_see_doctor": "Severe pain limiting daily activities, sudden joint swelling, joint deformity",
+    "icd10": "M15-M19",
+    "category": "Musculoskeletal"
+  },
+  {
+    "disease": "Coronary Artery Disease (CAD)",
+    "symptoms": [
+      "chest pain (angina)",
+      "shortness of breath",
+      "heart palpitations",
+      "fatigue",
+      "dizziness",
+      "heart attack in severe cases"
+    ],
+    "causes": "Atherosclerosis — plaque buildup in coronary arteries",
+    "risk_factors": [
+      "high LDL cholesterol",
+      "hypertension",
+      "smoking",
+      "diabetes",
+      "obesity",
+      "family history",
+      "age"
+    ],
+    "treatments": [
+      "statins",
+      "aspirin",
+      "beta-blockers",
+      "ACE inhibitors",
+      "angioplasty",
+      "bypass surgery"
+    ],
+    "prevention": "Healthy diet, exercise, smoking cessation, blood pressure and cholesterol control",
+    "when_to_see_doctor": "Chest pain radiating to arm/jaw, sudden shortness of breath — call emergency services",
+    "icd10": "I25",
+    "category": "Cardiovascular"
+  },
+  {
+    "disease": "Gastroesophageal Reflux Disease (GERD)",
+    "symptoms": [
+      "heartburn",
+      "regurgitation",
+      "chest pain",
+      "difficulty swallowing",
+      "chronic cough",
+      "laryngitis",
+      "worsens lying down"
+    ],
+    "causes": "Weak lower esophageal sphincter, hiatal hernia, obesity, diet",
+    "risk_factors": [
+      "obesity",
+      "pregnancy",
+      "smoking",
+      "fatty foods",
+      "alcohol",
+      "hiatal hernia"
+    ],
+    "treatments": [
+      "PPIs (omeprazole)",
+      "H2 blockers",
+      "antacids",
+      "lifestyle changes",
+      "surgery (Nissen fundoplication)"
+    ],
+    "prevention": "Avoid trigger foods, eat smaller meals, elevate head of bed, lose weight",
+    "when_to_see_doctor": "Difficulty swallowing, unexplained weight loss, vomiting blood",
+    "icd10": "K21",
+    "category": "Gastrointestinal"
+  },
+  {
+    "disease": "Hypothyroidism",
+    "symptoms": [
+      "fatigue",
+      "weight gain",
+      "cold intolerance",
+      "constipation",
+      "dry skin",
+      "hair loss",
+      "depression",
+      "bradycardia",
+      "muscle weakness"
+    ],
+    "causes": "Hashimoto's thyroiditis (autoimmune), thyroid surgery, radioiodine therapy, iodine deficiency",
+    "risk_factors": [
+      "female sex",
+      "age >60",
+      "family history",
+      "autoimmune conditions",
+      "prior thyroid treatment"
+    ],
+    "treatments": [
+      "levothyroxine (T4 replacement)",
+      "regular TSH monitoring"
+    ],
+    "prevention": "Adequate iodine intake, thyroid screening for high-risk groups",
+    "when_to_see_doctor": "Myxedema coma signs: severe cold intolerance, altered consciousness",
+    "icd10": "E03",
+    "category": "Endocrine"
+  },
+  {
+    "disease": "Anemia (Iron Deficiency)",
+    "symptoms": [
+      "fatigue",
+      "pale skin",
+      "shortness of breath",
+      "dizziness",
+      "cold hands and feet",
+      "brittle nails",
+      "chest pain",
+      "headache"
+    ],
+    "causes": "Inadequate iron intake, blood loss (GI bleed, menstruation), malabsorption",
+    "risk_factors": [
+      "menstruating women",
+      "pregnancy",
+      "vegetarian diet",
+      "celiac disease",
+      "GI bleeding"
+    ],
+    "treatments": [
+      "oral iron supplements (ferrous sulfate)",
+      "IV iron for severe cases",
+      "treat underlying cause"
+    ],
+    "prevention": "Iron-rich diet (red meat, legumes, leafy greens), vitamin C to enhance absorption",
+    "when_to_see_doctor": "Severe fatigue, heart palpitations, Hgb <8 g/dL",
+    "icd10": "D50",
+    "category": "Hematological"
+  },
+  {
+    "disease": "Chronic Kidney Disease (CKD)",
+    "symptoms": [
+      "fatigue",
+      "nausea",
+      "decreased urine output",
+      "swelling in legs/ankles",
+      "shortness of breath",
+      "itching",
+      "hypertension",
+      "confusion (advanced)"
+    ],
+    "causes": "Diabetes, hypertension, glomerulonephritis, polycystic kidney disease",
+    "risk_factors": [
+      "diabetes",
+      "hypertension",
+      "family history",
+      "age >60",
+      "obesity",
+      "smoking"
+    ],
+    "treatments": [
+      "ACE inhibitors/ARBs",
+      "blood pressure control",
+      "dietary restriction (protein, phosphorus)",
+      "dialysis or kidney transplant for ESRD"
+    ],
+    "prevention": "Control diabetes and blood pressure, avoid nephrotoxic drugs, stay hydrated",
+    "when_to_see_doctor": "Sudden decrease in urine output, severe edema, confusion",
+    "icd10": "N18",
+    "category": "Renal"
+  },
+  {
+    "disease": "Alzheimer's Disease",
+    "symptoms": [
+      "memory loss affecting daily life",
+      "confusion",
+      "difficulty with familiar tasks",
+      "language problems",
+      "disorientation",
+      "poor judgment",
+      "mood changes",
+      "social withdrawal"
+    ],
+    "causes": "Amyloid plaques and tau tangles in brain; genetic and environmental factors",
+    "risk_factors": [
+      "age >65",
+      "APOE-e4 gene",
+      "family history",
+      "Down syndrome",
+      "cardiovascular risk factors"
+    ],
+    "treatments": [
+      "cholinesterase inhibitors (donepezil)",
+      "memantine",
+      "supportive care",
+      "new: lecanemab (Leqembi), donanemab (Kisunla)"
+    ],
+    "prevention": "Cardiovascular health, cognitive stimulation, physical activity, social engagement",
+    "when_to_see_doctor": "Memory loss interfering with daily function, safety concerns",
+    "icd10": "G30",
+    "category": "Neurological"
+  },
+  {
+    "disease": "Rheumatoid Arthritis (RA)",
+    "symptoms": [
+      "joint pain and swelling",
+      "morning stiffness >1 hour",
+      "symmetrical joint involvement",
+      "fatigue",
+      "low-grade fever",
+      "rheumatoid nodules"
+    ],
+    "causes": "Autoimmune: immune system attacks joint synovium",
+    "risk_factors": [
+      "female sex",
+      "age 40-60",
+      "family history",
+      "smoking",
+      "obesity"
+    ],
+    "treatments": [
+      "DMARDs (methotrexate)",
+      "biologics (TNF inhibitors)",
+      "JAK inhibitors",
+      "NSAIDs",
+      "corticosteroids"
+    ],
+    "prevention": "Smoking cessation; no definitive prevention",
+    "when_to_see_doctor": "Persistent joint swelling and morning stiffness >6 weeks",
+    "icd10": "M05-M06",
+    "category": "Autoimmune / Musculoskeletal"
+  },
+  {
+    "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "symptoms": [
+      "chronic cough",
+      "phlegm production",
+      "progressive shortness of breath",
+      "wheezing",
+      "chest tightness",
+      "frequent respiratory infections"
+    ],
+    "causes": "Smoking (primary), air pollution, occupational dust/chemicals, genetic (alpha-1 antitrypsin deficiency)",
+    "risk_factors": [
+      "smoking",
+      "age >40",
+      "occupational exposure",
+      "asthma history",
+      "low socioeconomic status"
+    ],
+    "treatments": [
+      "bronchodilators (tiotropium, salmeterol)",
+      "inhaled corticosteroids",
+      "pulmonary rehabilitation",
+      "oxygen therapy",
+      "smoking cessation"
+    ],
+    "prevention": "Never smoke, avoid pollutants, vaccination (flu, pneumococcal)",
+    "when_to_see_doctor": "Sudden worsening of symptoms, cyanosis, high fever",
+    "icd10": "J44",
+    "category": "Respiratory"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": [
+      "sudden numbness/weakness (face, arm, leg, one side)",
+      "sudden confusion",
+      "speech difficulty",
+      "sudden vision loss",
+      "sudden severe headache",
+      "loss of balance"
+    ],
+    "causes": "Ischemic (clot) or hemorrhagic (bleed) interruption of blood to brain",
+    "risk_factors": [
+      "hypertension",
+      "atrial fibrillation",
+      "diabetes",
+      "smoking",
+      "obesity",
+      "high cholesterol"
+    ],
+    "treatments": [
+      "tPA (clot-busting drug within 4.5h)",
+      "mechanical thrombectomy",
+      "blood pressure management",
+      "anticoagulants for A-fib",
+      "rehabilitation"
+    ],
+    "prevention": "Control BP, A-fib treatment, smoking cessation, aspirin therapy where indicated",
+    "when_to_see_doctor": "IMMEDIATE — call 911. Use FAST: Face drooping, Arm weakness, Speech difficulty, Time to call",
+    "icd10": "I63-I64",
+    "category": "Neurological / Vascular"
+  },
+  {
+    "disease": "Breast Cancer",
+    "symptoms": [
+      "breast lump",
+      "change in breast size/shape",
+      "nipple discharge",
+      "skin dimpling",
+      "nipple inversion",
+      "breast pain (uncommon early sign)"
+    ],
+    "causes": "Mutations in BRCA1/BRCA2, hormonal factors, radiation exposure, family history",
+    "risk_factors": [
+      "female sex",
+      "age >50",
+      "BRCA1/2 mutation",
+      "family history",
+      "dense breast tissue",
+      "HRT use",
+      "obesity"
+    ],
+    "treatments": [
+      "surgery (lumpectomy/mastectomy)",
+      "radiation",
+      "chemotherapy",
+      "hormone therapy (tamoxifen, aromatase inhibitors)",
+      "HER2-targeted therapy",
+      "immunotherapy"
+    ],
+    "prevention": "Mammography screening, BRCA testing, prophylactic mastectomy in very high-risk cases",
+    "when_to_see_doctor": "Any new breast lump, nipple changes, or skin changes",
+    "icd10": "C50",
+    "category": "Oncology"
+  },
+  {
+    "disease": "Lung Cancer",
+    "symptoms": [
+      "persistent cough",
+      "coughing blood",
+      "chest pain",
+      "shortness of breath",
+      "hoarseness",
+      "unexplained weight loss",
+      "bone pain",
+      "headache (metastatic)"
+    ],
+    "causes": "Smoking (85% of cases), radon exposure, asbestos, genetic mutations (EGFR, ALK, KRAS)",
+    "risk_factors": [
+      "smoking",
+      "secondhand smoke",
+      "radon exposure",
+      "asbestos",
+      "COPD",
+      "family history"
+    ],
+    "treatments": [
+      "surgery",
+      "chemotherapy",
+      "radiation",
+      "targeted therapy (EGFR inhibitors, ALK inhibitors)",
+      "immunotherapy (pembrolizumab)"
+    ],
+    "prevention": "Smoking cessation, radon testing, low-dose CT screening for high-risk smokers",
+    "when_to_see_doctor": "Persistent cough >3 weeks, hemoptysis, unexplained weight loss",
+    "icd10": "C34",
+    "category": "Oncology"
+  },
+  {
+    "disease": "Sepsis",
+    "symptoms": [
+      "high fever or hypothermia",
+      "rapid heart rate",
+      "rapid breathing",
+      "confusion",
+      "extreme fatigue",
+      "low blood pressure",
+      "decreased urine output"
+    ],
+    "causes": "Overwhelming infection (bacterial, viral, fungal) triggering systemic immune response",
+    "risk_factors": [
+      "elderly",
+      "immunocompromised",
+      "recent surgery",
+      "ICU admission",
+      "indwelling catheters",
+      "chronic illness"
+    ],
+    "treatments": [
+      "IV antibiotics (within 1 hour)",
+      "IV fluids",
+      "vasopressors for septic shock",
+      "source control",
+      "organ support"
+    ],
+    "prevention": "Vaccination, hand hygiene, early treatment of infections, sterile technique for procedures",
+    "when_to_see_doctor": "URGENT — altered consciousness, low BP, high fever with rapid breathing",
+    "icd10": "A41",
+    "category": "Critical Care / Infectious"
+  },
+  {
+    "disease": "Appendicitis",
+    "symptoms": [
+      "pain starting around navel moving to lower right abdomen",
+      "nausea",
+      "vomiting",
+      "fever",
+      "loss of appetite",
+      "rigidity of abdomen",
+      "pain worsens with movement"
+    ],
+    "causes": "Blockage of appendix by fecal matter, foreign body, or infection leading to inflammation",
+    "risk_factors": [
+      "age 10-30",
+      "male sex",
+      "family history",
+      "bowel disease"
+    ],
+    "treatments": [
+      "appendectomy (surgical removal)",
+      "antibiotics (some uncomplicated cases may be managed non-surgically)"
+    ],
+    "prevention": "High-fiber diet may reduce risk",
+    "when_to_see_doctor": "URGENT — severe abdominal pain (especially right lower quadrant) with fever",
+    "icd10": "K37",
+    "category": "Surgical / Gastrointestinal"
+  },
+  {
+    "disease": "Psoriasis",
+    "symptoms": [
+      "red patches covered with silvery scales",
+      "dry cracked skin",
+      "itching or burning",
+      "thickened pitted nails",
+      "swollen stiff joints (psoriatic arthritis)"
+    ],
+    "causes": "Autoimmune: accelerated skin cell turnover; triggered by stress, infections, medications",
+    "risk_factors": [
+      "family history",
+      "smoking",
+      "obesity",
+      "stress",
+      "HIV infection"
+    ],
+    "treatments": [
+      "topical corticosteroids",
+      "vitamin D analogues",
+      "retinoids",
+      "methotrexate",
+      "biologics (TNF inhibitors, IL-17/23 inhibitors)",
+      "phototherapy"
+    ],
+    "prevention": "Stress management, avoid triggers, maintain healthy weight",
+    "when_to_see_doctor": "Widespread coverage, psoriatic arthritis, erythrodermic psoriasis",
+    "icd10": "L40",
+    "category": "Dermatological / Autoimmune"
+  },
+  {
+    "disease": "HIV/AIDS",
+    "symptoms": [
+      "acute: flu-like illness (fever, rash, sore throat)",
+      "chronic: often asymptomatic",
+      "AIDS: recurrent infections, weight loss, night sweats, oral thrush, Kaposi sarcoma"
+    ],
+    "causes": "Human Immunodeficiency Virus (HIV), transmitted via blood, sexual contact, breast milk",
+    "risk_factors": [
+      "unprotected sex",
+      "IV drug use",
+      "multiple partners",
+      "mother-to-child transmission"
+    ],
+    "treatments": [
+      "antiretroviral therapy (ART) — multiple regimens",
+      "prophylaxis for opportunistic infections"
+    ],
+    "prevention": "Condoms, PrEP (pre-exposure prophylaxis), needle exchange, ART in HIV+ pregnant women",
+    "when_to_see_doctor": "Recurrent infections, unexplained weight loss, positive HIV test",
+    "icd10": "B20-B24",
+    "category": "Infectious / Immunological"
+  },
+  {
+    "disease": "Tuberculosis (TB)",
+    "symptoms": [
+      "persistent cough >3 weeks",
+      "coughing blood",
+      "chest pain",
+      "night sweats",
+      "fever",
+      "unexplained weight loss",
+      "fatigue"
+    ],
+    "causes": "Mycobacterium tuberculosis, airborne transmission",
+    "risk_factors": [
+      "HIV infection",
+      "malnutrition",
+      "crowded living conditions",
+      "immunosuppression",
+      "diabetes",
+      "tobacco use"
+    ],
+    "treatments": [
+      "RIPE regimen: rifampin, isoniazid, pyrazinamide, ethambutol for 6 months"
+    ],
+    "prevention": "BCG vaccine (children), contact tracing, ventilation, PPE for healthcare workers",
+    "when_to_see_doctor": "Persistent cough with hemoptysis, positive TB test, exposure to active TB case",
+    "icd10": "A15-A19",
+    "category": "Infectious / Respiratory"
+  },
+  {
+    "disease": "Malaria",
+    "symptoms": [
+      "cyclical fever and chills",
+      "headache",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "sweating",
+      "anemia",
+      "splenomegaly (enlarged spleen)"
+    ],
+    "causes": "Plasmodium parasites (falciparum, vivax, ovale, malariae) transmitted via Anopheles mosquito bite",
+    "risk_factors": [
+      "travel to endemic areas",
+      "inadequate insect protection",
+      "young children",
+      "pregnant women",
+      "no prior immunity"
+    ],
+    "treatments": [
+      "artemisinin-based combination therapies (ACTs)",
+      "chloroquine (where sensitive)",
+      "IV quinine/artesunate for severe cases"
+    ],
+    "prevention": "Insecticide-treated bed nets, indoor spraying, antimalarial chemoprophylaxis for travelers",
+    "when_to_see_doctor": "Fever within 3 months of travel to endemic area — urgent",
+    "icd10": "B50-B54",
+    "category": "Infectious / Parasitic"
+  },
+  {
+    "disease": "Celiac Disease",
+    "symptoms": [
+      "diarrhea",
+      "abdominal bloating",
+      "gas",
+      "fatigue",
+      "weight loss",
+      "anemia",
+      "bone or joint pain",
+      "mouth sores",
+      "rash (dermatitis herpetiformis)"
+    ],
+    "causes": "Autoimmune reaction to gluten (wheat, barley, rye) causing intestinal damage",
+    "risk_factors": [
+      "family history",
+      "type 1 diabetes",
+      "Down syndrome",
+      "autoimmune thyroid disease"
+    ],
+    "treatments": [
+      "strict gluten-free diet (lifelong)"
+    ],
+    "prevention": "No prevention; early diagnosis prevents complications",
+    "when_to_see_doctor": "Chronic diarrhea, unexplained weight loss, symptoms of malabsorption",
+    "icd10": "K90.0",
+    "category": "Gastrointestinal / Autoimmune"
+  },
+  {
+    "disease": "Parkinson's Disease",
+    "symptoms": [
+      "tremor at rest (pill-rolling)",
+      "bradykinesia (slowness)",
+      "rigidity",
+      "postural instability",
+      "shuffling gait",
+      "masked face",
+      "small handwriting",
+      "soft speech"
+    ],
+    "causes": "Loss of dopaminergic neurons in substantia nigra; genetic (LRRK2, SNCA) and environmental factors",
+    "risk_factors": [
+      "age >60",
+      "male sex",
+      "family history",
+      "pesticide exposure",
+      "head trauma"
+    ],
+    "treatments": [
+      "levodopa/carbidopa",
+      "dopamine agonists",
+      "MAO-B inhibitors",
+      "deep brain stimulation (DBS)",
+      "physical therapy"
+    ],
+    "prevention": "Exercise may be neuroprotective; avoid pesticide exposure",
+    "when_to_see_doctor": "Tremor, unexplained falls, progressive movement slowness",
+    "icd10": "G20",
+    "category": "Neurological"
+  },
+  {
+    "disease": "Kidney Stones (Nephrolithiasis)",
+    "symptoms": [
+      "severe flank pain radiating to groin",
+      "blood in urine",
+      "frequent urination",
+      "burning urination",
+      "nausea",
+      "vomiting",
+      "fever if infected"
+    ],
+    "causes": "Calcium oxalate (most common), uric acid, struvite, or cystine crystal formation",
+    "risk_factors": [
+      "low fluid intake",
+      "high sodium/protein diet",
+      "obesity",
+      "gout",
+      "family history",
+      "IBD",
+      "hyperparathyroidism"
+    ],
+    "treatments": [
+      "pain management (NSAIDs)",
+      "increased fluid intake",
+      "alpha-blockers for passage",
+      "lithotripsy",
+      "ureteroscopy",
+      "PCNL for large stones"
+    ],
+    "prevention": "High fluid intake (2-3L/day), low sodium diet, moderate calcium intake",
+    "when_to_see_doctor": "Severe pain, fever with stone (infection), single kidney",
+    "icd10": "N20",
+    "category": "Urological"
+  },
+  {
+    "disease": "Lupus (SLE)",
+    "symptoms": [
+      "butterfly rash on cheeks",
+      "photosensitivity",
+      "joint pain and swelling",
+      "fatigue",
+      "fever",
+      "hair loss",
+      "oral ulcers",
+      "kidney involvement",
+      "serositis"
+    ],
+    "causes": "Autoimmune: antibodies against own nuclear antigens; genetic and hormonal factors",
+    "risk_factors": [
+      "female sex (9:1 ratio)",
+      "age 15-44",
+      "African/Asian/Hispanic descent",
+      "family history"
+    ],
+    "treatments": [
+      "hydroxychloroquine",
+      "corticosteroids",
+      "immunosuppressants (azathioprine, mycophenolate)",
+      "belimumab",
+      "anifrolumab"
+    ],
+    "prevention": "Sun protection, avoid triggers, vaccination maintenance",
+    "when_to_see_doctor": "Kidney symptoms, neurological manifestations, severe flares",
+    "icd10": "M32",
+    "category": "Autoimmune"
+  },
+  {
+    "disease": "Hepatitis B",
+    "symptoms": [
+      "fatigue",
+      "nausea",
+      "abdominal pain",
+      "dark urine",
+      "jaundice",
+      "joint pain",
+      "fever",
+      "chronic: cirrhosis, liver failure, liver cancer risk"
+    ],
+    "causes": "Hepatitis B virus (HBV), blood, sexual contact, mother-to-child transmission",
+    "risk_factors": [
+      "unprotected sex",
+      "IV drug use",
+      "healthcare workers",
+      "unvaccinated individuals",
+      "birth to HBV+ mother"
+    ],
+    "treatments": [
+      "acute: supportive care",
+      "chronic: antiviral therapy (tenofovir, entecavir)",
+      "liver transplant for end-stage disease"
+    ],
+    "prevention": "HBV vaccine (highly effective), safe sex, needle exchange",
+    "when_to_see_doctor": "Jaundice, severe fatigue, swollen abdomen",
+    "icd10": "B16-B19",
+    "category": "Infectious / Hepatic"
+  },
+  {
+    "disease": "Attention Deficit Hyperactivity Disorder (ADHD)",
+    "symptoms": [
+      "inattention",
+      "hyperactivity",
+      "impulsivity",
+      "difficulty organizing tasks",
+      "forgetfulness",
+      "often loses things",
+      "easily distracted",
+      "interrupts others"
+    ],
+    "causes": "Neurodevelopmental; genetic predisposition, dopamine/norepinephrine dysregulation",
+    "risk_factors": [
+      "family history",
+      "premature birth",
+      "low birth weight",
+      "prenatal tobacco/alcohol exposure",
+      "brain injury"
+    ],
+    "treatments": [
+      "stimulants (methylphenidate, amphetamines)",
+      "non-stimulants (atomoxetine)",
+      "behavioral therapy",
+      "parent training",
+      "school accommodations"
+    ],
+    "prevention": "Avoid prenatal substance exposure",
+    "when_to_see_doctor": "Symptoms impairing school, work, or relationships before age 12",
+    "icd10": "F90",
+    "category": "Mental Health / Neurodevelopmental"
+  },
+  {
+    "disease": "Obesity",
+    "symptoms": [
+      "BMI >30",
+      "excess body fat",
+      "fatigue",
+      "joint pain",
+      "shortness of breath",
+      "sleep apnea",
+      "comorbidities: diabetes, hypertension, dyslipidemia"
+    ],
+    "causes": "Energy imbalance; genetic, behavioral, environmental, hormonal factors",
+    "risk_factors": [
+      "sedentary lifestyle",
+      "high-calorie diet",
+      "genetics",
+      "certain medications",
+      "psychological factors",
+      "sleep deprivation"
+    ],
+    "treatments": [
+      "lifestyle modification (diet + exercise)",
+      "behavioral therapy",
+      "pharmacotherapy (semaglutide, orlistat)",
+      "bariatric surgery for severe obesity"
+    ],
+    "prevention": "Healthy diet, regular exercise, adequate sleep, limit screen time",
+    "when_to_see_doctor": "BMI >30 with comorbidities, BMI >40, failed conservative management",
+    "icd10": "E66",
+    "category": "Endocrine / Metabolic"
+  },
+  {
+    "disease": "Colorectal Cancer",
+    "symptoms": [
+      "blood in stool",
+      "change in bowel habits",
+      "abdominal cramps",
+      "unexplained weight loss",
+      "fatigue",
+      "feeling bowel not empty after defecation"
+    ],
+    "causes": "Adenomatous polyp progression; genetic mutations (APC, KRAS, TP53, MLH1)",
+    "risk_factors": [
+      "age >50",
+      "family history",
+      "IBD",
+      "obesity",
+      "red/processed meat diet",
+      "smoking",
+      "Lynch syndrome"
+    ],
+    "treatments": [
+      "surgery (colectomy)",
+      "chemotherapy (FOLFOX, FOLFIRI)",
+      "targeted therapy (bevacizumab, cetuximab)",
+      "immunotherapy (pembrolizumab for MSI-H)"
+    ],
+    "prevention": "Colonoscopy screening from age 45, high-fiber diet, exercise, aspirin (selected cases)",
+    "when_to_see_doctor": "Blood in stool, persistent bowel changes, unexplained weight loss",
+    "icd10": "C18-C20",
+    "category": "Oncology"
+  },
+  {
+    "disease": "Atrial Fibrillation (AFib)",
+    "symptoms": [
+      "palpitations",
+      "irregular heartbeat",
+      "fatigue",
+      "shortness of breath",
+      "dizziness",
+      "chest pain",
+      "reduced exercise tolerance"
+    ],
+    "causes": "Electrical conduction abnormality; associated with hypertension, heart disease, thyroid disease, sleep apnea",
+    "risk_factors": [
+      "age >65",
+      "hypertension",
+      "heart failure",
+      "coronary artery disease",
+      "obesity",
+      "alcohol use",
+      "sleep apnea"
+    ],
+    "treatments": [
+      "rate control (beta-blockers, digoxin)",
+      "rhythm control (cardioversion, antiarrhythmics)",
+      "anticoagulation (warfarin, NOACs)",
+      "catheter ablation"
+    ],
+    "prevention": "Control risk factors, limit alcohol, treat sleep apnea",
+    "when_to_see_doctor": "New onset palpitations, shortness of breath, dizziness — ECG needed",
+    "icd10": "I48",
+    "category": "Cardiovascular"
+  },
+  {
+    "disease": "Prostate Cancer",
+    "symptoms": [
+      "early: often asymptomatic",
+      "urinary frequency",
+      "weak urine stream",
+      "blood in urine/semen",
+      "erectile dysfunction",
+      "bone pain (advanced)"
+    ],
+    "causes": "Hormonal (androgen-driven), genetic (BRCA2, HOXB13), aging",
+    "risk_factors": [
+      "age >65",
+      "African American descent",
+      "family history",
+      "BRCA2 mutation",
+      "obesity"
+    ],
+    "treatments": [
+      "active surveillance",
+      "radical prostatectomy",
+      "radiation therapy",
+      "androgen deprivation therapy (ADT)",
+      "chemotherapy (docetaxel)",
+      "PARP inhibitors for BRCA mutations"
+    ],
+    "prevention": "PSA screening discussion with doctor at age 50 (45 for high-risk)",
+    "when_to_see_doctor": "Urinary symptoms, elevated PSA, bone pain",
+    "icd10": "C61",
+    "category": "Oncology"
+  },
+  {
+    "disease": "Anxiety Disorder (GAD)",
+    "symptoms": [
+      "excessive worry",
+      "restlessness",
+      "fatigue",
+      "difficulty concentrating",
+      "muscle tension",
+      "sleep disturbance",
+      "irritability",
+      "somatic complaints"
+    ],
+    "causes": "Neurobiological (GABA, serotonin dysregulation), genetic, environmental stressors, trauma",
+    "risk_factors": [
+      "family history",
+      "childhood trauma",
+      "chronic illness",
+      "female sex",
+      "substance use"
+    ],
+    "treatments": [
+      "SSRIs/SNRIs",
+      "buspirone",
+      "benzodiazepines (short-term)",
+      "CBT",
+      "mindfulness-based therapy"
+    ],
+    "prevention": "Stress management, regular exercise, limit caffeine/alcohol, adequate sleep",
+    "when_to_see_doctor": "Worry interfering with daily life, panic attacks, suicidal ideation",
+    "icd10": "F41.1",
+    "category": "Mental Health"
+  },
+  {
+    "disease": "Dengue Fever",
+    "symptoms": [
+      "sudden high fever",
+      "severe headache",
+      "pain behind eyes",
+      "joint and muscle pain",
+      "rash",
+      "nausea",
+      "vomiting",
+      "bleeding (severe dengue)"
+    ],
+    "causes": "Dengue virus (DENV 1-4), transmitted by Aedes aegypti mosquito",
+    "risk_factors": [
+      "tropical/subtropical regions",
+      "prior dengue infection (increases severe dengue risk)",
+      "urban settings with stagnant water"
+    ],
+    "treatments": [
+      "supportive: fluids, acetaminophen (avoid NSAIDs/aspirin)",
+      "IV fluids for severe dengue",
+      "platelet transfusion if severe bleeding"
+    ],
+    "prevention": "Dengue vaccine (Dengvaxia, Qdenga), mosquito control, repellent use",
+    "when_to_see_doctor": "Bleeding, abdominal pain, rapid breathing, persistent vomiting",
+    "icd10": "A90-A91",
+    "category": "Infectious / Vector-borne"
+  },
+  {
+    "disease": "Epilepsy",
+    "symptoms": [
+      "recurrent unprovoked seizures",
+      "temporary confusion",
+      "staring spells",
+      "uncontrollable jerking movements",
+      "loss of consciousness",
+      "fear or anxiety before seizure (aura)"
+    ],
+    "causes": "Brain injury, stroke, infections, genetic mutations, developmental disorders",
+    "risk_factors": [
+      "family history",
+      "head trauma",
+      "stroke",
+      "febrile seizures in childhood",
+      "brain infections"
+    ],
+    "treatments": [
+      "antiseizure medications (valproate, levetiracetam, lamotrigine)",
+      "ketogenic diet",
+      "vagus nerve stimulation",
+      "surgery for drug-resistant epilepsy"
+    ],
+    "prevention": "Prevent head injury, treat infections promptly, control fever in children",
+    "when_to_see_doctor": "First seizure, seizure >5 min (status epilepticus — emergency), seizure in pregnancy",
+    "icd10": "G40",
+    "category": "Neurological"
+  },
+  {
+    "disease": "Schizophrenia",
+    "symptoms": [
+      "delusions",
+      "hallucinations (often auditory)",
+      "disorganized thinking/speech",
+      "negative symptoms: flat affect, alogia, avolition",
+      "cognitive impairment",
+      "social withdrawal"
+    ],
+    "causes": "Dopamine hyperactivity, glutamate dysfunction, genetic predisposition, neurodevelopmental factors",
+    "risk_factors": [
+      "family history",
+      "prenatal malnutrition/infections",
+      "cannabis use (high-potency)",
+      "urban upbringing",
+      "migration"
+    ],
+    "treatments": [
+      "antipsychotics (risperidone, olanzapine, clozapine)",
+      "psychosocial rehabilitation",
+      "cognitive behavioral therapy",
+      "community support programs"
+    ],
+    "prevention": "Cannabis avoidance in at-risk individuals; early intervention programs",
+    "when_to_see_doctor": "Psychotic symptoms, danger to self/others, significant functional decline",
+    "icd10": "F20",
+    "category": "Mental Health"
+  },
+  {
+    "disease": "Meningitis",
+    "symptoms": [
+      "sudden high fever",
+      "severe headache",
+      "stiff neck",
+      "photophobia",
+      "phonophobia",
+      "nausea/vomiting",
+      "altered consciousness",
+      "petechial rash (bacterial)"
+    ],
+    "causes": "Bacterial (Neisseria meningitidis, Streptococcus pneumoniae), viral (enteroviruses), fungal (Cryptococcus)",
+    "risk_factors": [
+      "young children",
+      "adolescents in communal living",
+      "immunocompromised",
+      "asplenia",
+      "unvaccinated"
+    ],
+    "treatments": [
+      "bacterial: IV antibiotics + dexamethasone URGENTLY",
+      "viral: supportive care",
+      "fungal: IV antifungals"
+    ],
+    "prevention": "Meningococcal and pneumococcal vaccines, Hib vaccine",
+    "when_to_see_doctor": "EMERGENCY — fever + neck stiffness + rash = call emergency services immediately",
+    "icd10": "G00-G03",
+    "category": "Infectious / Neurological"
+  },
+  {
+    "disease": "Eczema (Atopic Dermatitis)",
+    "symptoms": [
+      "itchy skin",
+      "dry skin",
+      "red/brown patches",
+      "small raised bumps",
+      "thickened cracked skin",
+      "raw swollen skin from scratching",
+      "worsens with sweating/irritants"
+    ],
+    "causes": "Skin barrier dysfunction, immune dysregulation, genetic (filaggrin mutations), environmental triggers",
+    "risk_factors": [
+      "family history of eczema/asthma/allergies",
+      "age <5 (often resolves)",
+      "urban living",
+      "low humidity environments"
+    ],
+    "treatments": [
+      "topical corticosteroids",
+      "topical calcineurin inhibitors",
+      "dupilumab (biologic)",
+      "JAK inhibitors (abrocitinib)",
+      "moisturizers",
+      "antihistamines for itch"
+    ],
+    "prevention": "Regular moisturizing from birth in high-risk infants, avoid triggers",
+    "when_to_see_doctor": "Widespread rash, signs of skin infection, not responding to OTC treatments",
+    "icd10": "L20",
+    "category": "Dermatological"
+  },
+  {
+    "disease": "Glaucoma",
+    "symptoms": [
+      "open-angle: often asymptomatic until late",
+      "peripheral vision loss",
+      "tunnel vision (advanced)",
+      "angle-closure: sudden severe eye pain, headache, nausea, blurred vision, halos"
+    ],
+    "causes": "Elevated intraocular pressure damaging optic nerve; vascular and genetic factors",
+    "risk_factors": [
+      "age >60",
+      "family history",
+      "elevated IOP",
+      "thin corneas",
+      "African descent",
+      "diabetes",
+      "severe myopia"
+    ],
+    "treatments": [
+      "eye drops (prostaglandins, beta-blockers)",
+      "oral acetazolamide",
+      "laser trabeculoplasty",
+      "trabeculectomy surgery"
+    ],
+    "prevention": "Regular eye exams from age 40 (35 for high-risk), control IOP",
+    "when_to_see_doctor": "Sudden eye pain with halos and nausea (angle-closure — emergency), any vision loss",
+    "icd10": "H40",
+    "category": "Ophthalmological"
+  },
+  {
+    "disease": "Osteoporosis",
+    "symptoms": [
+      "usually asymptomatic until fracture",
+      "back pain",
+      "loss of height over time",
+      "stooped posture",
+      "fractures from minor falls (wrist, hip, spine)"
+    ],
+    "causes": "Bone resorption exceeds formation; estrogen deficiency, calcium/vitamin D deficiency, aging",
+    "risk_factors": [
+      "postmenopausal women",
+      "age >70 in men",
+      "low calcium/vitamin D",
+      "smoking",
+      "corticosteroid use",
+      "family history",
+      "low BMI"
+    ],
+    "treatments": [
+      "bisphosphonates (alendronate, zoledronic acid)",
+      "denosumab",
+      "teriparatide (anabolic)",
+      "calcium + vitamin D supplementation"
+    ],
+    "prevention": "Adequate calcium/vitamin D from childhood, weight-bearing exercise, no smoking, fall prevention",
+    "when_to_see_doctor": "Fracture from minor trauma, loss of height >1.5 inches, DEXA screening at age 65 (women)",
+    "icd10": "M81",
+    "category": "Musculoskeletal / Endocrine"
+  },
+  {
+    "disease": "Food Poisoning (Foodborne Illness)",
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal cramps",
+      "fever",
+      "onset hours to days after contaminated food"
+    ],
+    "causes": "Salmonella, E. coli O157:H7, Campylobacter, Listeria, norovirus, Staphylococcus aureus toxins",
+    "risk_factors": [
+      "undercooked meat/eggs",
+      "unpasteurized products",
+      "poor food hygiene",
+      "immunocompromised",
+      "elderly",
+      "pregnant"
+    ],
+    "treatments": [
+      "oral rehydration",
+      "IV fluids if severe",
+      "antibiotics for specific bacteria (Salmonella, Listeria)",
+      "avoid antidiarrheals in bloody diarrhea"
+    ],
+    "prevention": "Cook food to proper temperatures, hand washing, proper food storage",
+    "when_to_see_doctor": "Bloody diarrhea, high fever, signs of dehydration, symptoms >3 days",
+    "icd10": "A05",
+    "category": "Infectious / Gastrointestinal"
+  },
+  {
+    "disease": "Chronic Pain Syndrome",
+    "symptoms": [
+      "persistent pain >3-6 months beyond normal healing",
+      "fatigue",
+      "sleep disturbances",
+      "depression and anxiety",
+      "reduced physical function",
+      "pain disproportionate to injury"
+    ],
+    "causes": "Central sensitization, nerve damage, psychosocial factors, inflammatory conditions",
+    "risk_factors": [
+      "prior injury or surgery",
+      "depression/anxiety",
+      "female sex",
+      "older age",
+      "fibromyalgia",
+      "sleep disorders"
+    ],
+    "treatments": [
+      "multimodal: analgesics, antidepressants (duloxetine)",
+      "anticonvulsants (gabapentin)",
+      "physical therapy",
+      "cognitive behavioral therapy",
+      "interventional procedures"
+    ],
+    "prevention": "Early pain management, psychological support after injury, avoid opioid dependence",
+    "when_to_see_doctor": "Pain significantly limiting function for >3 months",
+    "icd10": "G89.2",
+    "category": "Pain Medicine"
+  },
+  {
+    "disease": "Sleep Apnea (OSA)",
+    "symptoms": [
+      "loud snoring",
+      "witnessed apneas",
+      "gasping during sleep",
+      "excessive daytime sleepiness",
+      "morning headaches",
+      "difficulty concentrating",
+      "irritability"
+    ],
+    "causes": "Upper airway collapse during sleep; obesity, anatomical factors, alcohol use",
+    "risk_factors": [
+      "obesity",
+      "male sex",
+      "age >40",
+      "large neck circumference",
+      "family history",
+      "alcohol/sedatives",
+      "nasal congestion"
+    ],
+    "treatments": [
+      "CPAP therapy (gold standard)",
+      "oral appliances",
+      "positional therapy",
+      "surgery (uvulopalatopharyngoplasty)",
+      "weight loss"
+    ],
+    "prevention": "Maintain healthy weight, avoid alcohol before bed, sleep on side",
+    "when_to_see_doctor": "Excessive daytime sleepiness, witnessed apneas, unexplained hypertension",
+    "icd10": "G47.33",
+    "category": "Sleep / Respiratory"
+  },
+  {
+    "disease": "Polycystic Ovary Syndrome (PCOS)",
+    "symptoms": [
+      "irregular or absent periods",
+      "excess androgen (acne, hirsutism)",
+      "polycystic ovaries on ultrasound",
+      "obesity",
+      "infertility",
+      "thinning hair",
+      "skin tags"
+    ],
+    "causes": "Insulin resistance, androgen excess, hypothalamic-pituitary dysregulation; genetic factors",
+    "risk_factors": [
+      "family history",
+      "obesity",
+      "insulin resistance",
+      "type 2 diabetes"
+    ],
+    "treatments": [
+      "combined oral contraceptives",
+      "metformin",
+      "anti-androgens (spironolactone)",
+      "ovulation induction (clomiphene, letrozole) for fertility",
+      "lifestyle modification"
+    ],
+    "prevention": "Maintain healthy weight; no definitive prevention",
+    "when_to_see_doctor": "Irregular periods, infertility, significant hirsutism or acne",
+    "icd10": "E28.2",
+    "category": "Endocrine / Reproductive"
+  },
+  {
+    "disease": "Acne Vulgaris",
+    "symptoms": [
+      "blackheads (open comedones)",
+      "whiteheads (closed comedones)",
+      "papules",
+      "pustules",
+      "nodules/cysts",
+      "scarring (severe acne)"
+    ],
+    "causes": "Excess sebum, follicular plugging, Cutibacterium acnes colonization, inflammation",
+    "risk_factors": [
+      "adolescence",
+      "hormonal changes",
+      "family history",
+      "certain medications (corticosteroids)",
+      "dairy intake (mild link)"
+    ],
+    "treatments": [
+      "topical retinoids",
+      "benzoyl peroxide",
+      "topical/oral antibiotics",
+      "hormonal therapy (OCP, spironolactone)",
+      "isotretinoin for severe/nodular acne"
+    ],
+    "prevention": "Gentle skin care, non-comedogenic products, avoid picking",
+    "when_to_see_doctor": "Nodular/cystic acne, significant scarring, poor response to OTC treatments",
+    "icd10": "L70",
+    "category": "Dermatological"
+  },
+  {
+    "disease": "Crohn's Disease",
+    "symptoms": [
+      "abdominal pain and cramping",
+      "diarrhea (may be bloody)",
+      "fatigue",
+      "weight loss",
+      "fever",
+      "perianal disease (fistulas, abscesses)",
+      "extraintestinal: joint pain, eye inflammation, skin lesions"
+    ],
+    "causes": "Autoimmune inflammatory bowel disease; genetic (NOD2), immune dysregulation, gut microbiome",
+    "risk_factors": [
+      "family history",
+      "age 15-35",
+      "smoking (worsens Crohn's)",
+      "NSAID use",
+      "Northern European descent"
+    ],
+    "treatments": [
+      "aminosalicylates",
+      "corticosteroids",
+      "immunomodulators (azathioprine)",
+      "biologics (infliximab, adalimumab, vedolizumab)",
+      "ustekinumab",
+      "surgery for complications"
+    ],
+    "prevention": "No definitive prevention; smoking cessation important",
+    "when_to_see_doctor": "Severe abdominal pain, bloody diarrhea >6x/day, fever, weight loss",
+    "icd10": "K50",
+    "category": "Gastrointestinal / Autoimmune"
+  },
+  {
+    "disease": "Cataracts",
+    "symptoms": [
+      "cloudy or blurry vision",
+      "faded colors",
+      "glare from lights",
+      "halos around lights",
+      "double vision in one eye",
+      "frequent prescription changes"
+    ],
+    "causes": "Age-related protein clumping in lens; UV exposure, diabetes, trauma, steroids",
+    "risk_factors": [
+      "age >60",
+      "UV exposure",
+      "smoking",
+      "diabetes",
+      "prolonged steroid use",
+      "prior eye injury"
+    ],
+    "treatments": [
+      "surgery: phacoemulsification with intraocular lens implant (highly effective)"
+    ],
+    "prevention": "UV-blocking sunglasses, no smoking, control diabetes, antioxidant-rich diet",
+    "when_to_see_doctor": "Vision impairment affecting daily activities, driving safety concerns",
+    "icd10": "H26",
+    "category": "Ophthalmological"
+  },
+  {
+    "disease": "Panic Disorder",
+    "symptoms": [
+      "recurrent unexpected panic attacks",
+      "palpitations",
+      "sweating",
+      "trembling",
+      "shortness of breath",
+      "choking sensation",
+      "chest pain",
+      "nausea",
+      "dizziness",
+      "fear of losing control or dying",
+      "anticipatory anxiety"
+    ],
+    "causes": "Neurobiological hypersensitivity of fear circuit (amygdala); genetic, stressful life events",
+    "risk_factors": [
+      "family history",
+      "major stress or trauma",
+      "nicotine/caffeine use",
+      "history of anxiety/depression"
+    ],
+    "treatments": [
+      "SSRIs/SNRIs (first-line)",
+      "benzodiazepines (short-term)",
+      "CBT (highly effective)",
+      "breathing techniques"
+    ],
+    "prevention": "Stress management, limit stimulants, psychotherapy for vulnerable individuals",
+    "when_to_see_doctor": "Recurrent unexpected panic attacks, agoraphobia, significant functional impairment",
+    "icd10": "F41.0",
+    "category": "Mental Health"
+  }
+]

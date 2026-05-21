@@ -1,0 +1,165 @@
+[
+  {
+    "topic": "Phishing Attacks",
+    "description": "Social engineering attacks tricking users into revealing credentials or installing malware",
+    "types": [
+      "email phishing (generic mass)",
+      "spear phishing (targeted)",
+      "whaling (executives)",
+      "smishing (SMS)",
+      "vishing (voice call)",
+      "quishing (QR code)"
+    ],
+    "statistics": "91% of cyberattacks begin with phishing email; $4.76B lost in 2022 (FBI IC3)",
+    "red_flags": [
+      "urgent language",
+      "mismatched email domains",
+      "requests for credentials",
+      "unexpected attachments",
+      "too-good-to-be-true offers"
+    ],
+    "protection": [
+      "email filtering",
+      "MFA",
+      "security awareness training",
+      "DMARC/SPF/DKIM",
+      "zero-trust architecture"
+    ]
+  },
+  {
+    "topic": "Password Security",
+    "best_practices": [
+      "use password manager (1Password, Bitwarden, Dashlane)",
+      "unique password for every account",
+      "minimum 16+ characters",
+      "passphrases (easier to remember, harder to crack)",
+      "never reuse passwords"
+    ],
+    "most_common_passwords": [
+      "123456",
+      "password",
+      "qwerty",
+      "123456789",
+      "12345 — avoid all"
+    ],
+    "hashing": "Passwords should be stored hashed (bcrypt, Argon2, scrypt) — never plaintext",
+    "breaches": "Have I Been Pwned monitors 12B+ breached credentials",
+    "MFA": "Reduces account compromise risk by 99.9% (Microsoft)"
+  },
+  {
+    "topic": "Ransomware",
+    "description": "Malware encrypting victim's data and demanding cryptocurrency ransom for decryption key",
+    "notable_attacks": [
+      "WannaCry 2017 ($4B damages)",
+      "Colonial Pipeline 2021 ($4.4M paid)",
+      "JBS Foods 2021 ($11M paid)",
+      "Medibank 2022 (9.7M records exposed)"
+    ],
+    "attack_vector": [
+      "phishing emails (most common)",
+      "RDP vulnerabilities",
+      "software vulnerabilities",
+      "supply chain attacks"
+    ],
+    "protection": [
+      "regular offline backups (3-2-1 rule)",
+      "patch management",
+      "endpoint detection and response (EDR)",
+      "network segmentation",
+      "least privilege access"
+    ],
+    "trends": "Double extortion (encrypt + threaten to publish); ransomware-as-a-service (RaaS) model proliferating"
+  },
+  {
+    "topic": "Zero Trust Security",
+    "description": "Security model: 'never trust, always verify' — no implicit trust for any user or device",
+    "principles": [
+      "verify explicitly (always authenticate and authorize)",
+      "use least privilege access",
+      "assume breach (design for containment)"
+    ],
+    "vs_perimeter": "Traditional: castle-and-moat (trust inside network); Zero Trust: no inside/outside distinction",
+    "implementation": [
+      "identity and access management (IAM)",
+      "multi-factor authentication",
+      "micro-segmentation",
+      "device health verification",
+      "continuous monitoring"
+    ],
+    "drivers": "Cloud adoption, remote work, supply chain attacks make perimeter security obsolete"
+  },
+  {
+    "topic": "Data Privacy Regulations",
+    "key_laws": [
+      {
+        "GDPR (EU 2018)": "strongest global standard; fines up to €20M or 4% global revenue"
+      },
+      {
+        "CCPA (California 2020)": "right to know, delete, opt-out; $7,500 per intentional violation"
+      },
+      {
+        "HIPAA (US healthcare)": "protected health information; $100-$50,000 per violation"
+      },
+      {
+        "China PIPL (2021)": "similar scope to GDPR"
+      }
+    ],
+    "rights": [
+      "access your data",
+      "correct inaccuracies",
+      "delete data",
+      "data portability",
+      "object to processing"
+    ],
+    "trends": "70+ countries now have data protection laws; US federal privacy law under development",
+    "compliance": [
+      "data mapping",
+      "consent management",
+      "privacy by design",
+      "DPO appointment (GDPR)"
+    ]
+  },
+  {
+    "topic": "Social Engineering",
+    "description": "Psychological manipulation exploiting human behavior rather than technical vulnerabilities",
+    "techniques": [
+      "pretexting (fabricated scenario)",
+      "baiting (infected USB drops)",
+      "tailgating/piggybacking (physical access)",
+      "quid pro quo (something for something)",
+      "authority exploitation"
+    ],
+    "famous_cases": [
+      "Twitter 2020 hack via phone spear phishing",
+      "RSA SecurID breach via Flash exploit phishing",
+      "Kevin Mitnick (world's most famous social engineer)"
+    ],
+    "defense": [
+      "security culture and training",
+      "verification procedures",
+      "zero-trust mindset",
+      "incident reporting culture",
+      "slow down for urgent requests"
+    ]
+  },
+  {
+    "topic": "Encryption",
+    "description": "Process of encoding information so only authorized parties can read it",
+    "types": [
+      {
+        "symmetric": "same key encrypts/decrypts (AES-256); fast; key distribution challenge"
+      },
+      {
+        "asymmetric": "public/private key pair (RSA, ECC); solves key distribution; slower"
+      }
+    ],
+    "in_practice": [
+      "HTTPS uses TLS (combination of both)",
+      "end-to-end encryption in Signal, WhatsApp",
+      "full disk encryption (BitLocker, FileVault)",
+      "database encryption at rest"
+    ],
+    "quantum_threat": "Quantum computers could break RSA/ECC; NIST post-quantum standards finalized 2024 (CRYSTALS-Kyber, CRYSTALS-Dilithium)",
+    "end_to_end": "Provider cannot read messages; even legal requests cannot access content"
+  }
+]

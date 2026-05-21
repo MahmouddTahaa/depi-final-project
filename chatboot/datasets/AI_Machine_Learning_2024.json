@@ -1,0 +1,264 @@
+[
+  {
+    "concept": "Large Language Models (LLMs)",
+    "description": "Deep learning models trained on massive text corpora to understand and generate human language",
+    "examples": [
+      "GPT-4",
+      "Claude 3.5",
+      "Gemini 1.5",
+      "Llama 3",
+      "Mistral"
+    ],
+    "architecture": "Transformer with self-attention mechanism (Vaswani et al., 2017)",
+    "training": "Pre-training on web-scale data, then fine-tuning (RLHF/RLAIF)",
+    "capabilities": [
+      "text generation",
+      "summarization",
+      "Q&A",
+      "code",
+      "reasoning",
+      "translation"
+    ],
+    "limitations": [
+      "hallucinations",
+      "knowledge cutoff",
+      "context window limits",
+      "no real-world grounding"
+    ]
+  },
+  {
+    "concept": "Retrieval-Augmented Generation (RAG)",
+    "description": "Architecture combining retrieval of relevant documents with generative AI for grounded, accurate answers",
+    "components": [
+      "document chunking",
+      "vector embeddings",
+      "similarity search",
+      "LLM generation with retrieved context"
+    ],
+    "benefits": [
+      "reduces hallucinations",
+      "allows real-time knowledge",
+      "domain-specific accuracy",
+      "source attribution"
+    ],
+    "pipeline": "Query → Embed → Retrieve from vector DB → Augment prompt → Generate answer",
+    "tools": [
+      "LangChain",
+      "LlamaIndex",
+      "Pinecone",
+      "Chroma",
+      "Weaviate"
+    ]
+  },
+  {
+    "concept": "Neural Networks",
+    "description": "Computational systems loosely inspired by biological neurons, core of modern deep learning",
+    "types": [
+      "feedforward (MLP)",
+      "convolutional (CNN — images)",
+      "recurrent (RNN, LSTM — sequences)",
+      "transformer (attention-based)",
+      "graph neural networks"
+    ],
+    "training": "Backpropagation + gradient descent to minimize loss function",
+    "activation_functions": [
+      "ReLU",
+      "sigmoid",
+      "tanh",
+      "GELU",
+      "softmax (output layer)"
+    ],
+    "universal_approximation": "A sufficiently large neural network can approximate any continuous function"
+  },
+  {
+    "concept": "Reinforcement Learning from Human Feedback (RLHF)",
+    "description": "Training method aligning LLMs with human preferences using reward modeling",
+    "steps": [
+      "supervised fine-tuning on demonstrations",
+      "train reward model from human preference rankings",
+      "optimize policy with PPO algorithm"
+    ],
+    "used_in": [
+      "ChatGPT",
+      "Claude",
+      "Gemini alignment"
+    ],
+    "alternatives": [
+      "RLAIF (AI feedback instead of human)",
+      "DPO (Direct Preference Optimization)",
+      "Constitutional AI (Anthropic)"
+    ],
+    "importance": "Critical for making models helpful, harmless, and honest"
+  },
+  {
+    "concept": "Computer Vision",
+    "description": "AI field enabling computers to interpret and understand visual information",
+    "tasks": [
+      "image classification",
+      "object detection",
+      "semantic segmentation",
+      "pose estimation",
+      "image generation"
+    ],
+    "architectures": [
+      "CNN (ResNet, VGG)",
+      "Vision Transformer (ViT)",
+      "YOLO (real-time detection)",
+      "Diffusion models (image generation)"
+    ],
+    "applications": [
+      "medical imaging",
+      "autonomous vehicles",
+      "facial recognition",
+      "quality control",
+      "satellite analysis"
+    ],
+    "benchmark": "ImageNet; human-level performance surpassed in 2015"
+  },
+  {
+    "concept": "Natural Language Processing (NLP)",
+    "description": "Branch of AI focused on enabling computers to understand, process, and generate human language",
+    "tasks": [
+      "sentiment analysis",
+      "named entity recognition",
+      "machine translation",
+      "question answering",
+      "text classification",
+      "speech recognition"
+    ],
+    "key_advances": [
+      "Word2Vec (2013)",
+      "BERT (2018)",
+      "GPT series",
+      "instruction tuning",
+      "chain-of-thought prompting"
+    ],
+    "evaluation": [
+      "BLEU (translation)",
+      "ROUGE (summarization)",
+      "perplexity",
+      "human evaluation"
+    ],
+    "challenge": "Language ambiguity, context-dependence, sarcasm, cultural nuance"
+  },
+  {
+    "concept": "Prompt Engineering",
+    "description": "Craft of designing inputs to elicit optimal outputs from LLMs",
+    "techniques": [
+      "zero-shot (no examples)",
+      "few-shot (provide examples)",
+      "chain-of-thought (reason step by step)",
+      "role prompting",
+      "structured output (JSON mode)",
+      "RAG prompting"
+    ],
+    "best_practices": [
+      "be specific and explicit",
+      "specify format",
+      "provide context",
+      "break complex tasks into steps",
+      "use delimiters"
+    ],
+    "advanced": [
+      "ReAct (reasoning + acting)",
+      "Tree of Thought",
+      "Self-consistency sampling"
+    ],
+    "importance": "Same model, different prompt → dramatically different output quality"
+  },
+  {
+    "concept": "AI Hallucinations",
+    "description": "LLM generating plausible-sounding but factually incorrect or fabricated information",
+    "causes": [
+      "training data errors",
+      "pattern completion vs recall",
+      "confidence calibration issues",
+      "rare fact underrepresentation"
+    ],
+    "types": [
+      "factual errors",
+      "made-up citations",
+      "incorrect arithmetic",
+      "confabulation of events"
+    ],
+    "mitigation": [
+      "RAG with source grounding",
+      "tool use (web search, calculator)",
+      "temperature reduction",
+      "chain-of-thought",
+      "human verification"
+    ],
+    "current_state": "Major open problem; no complete solution exists yet"
+  },
+  {
+    "concept": "Transformer Architecture",
+    "description": "Neural network architecture using self-attention, foundation of modern LLMs (Vaswani et al., 2017)",
+    "components": [
+      "multi-head self-attention",
+      "feed-forward layers",
+      "layer normalization",
+      "positional encoding",
+      "encoder and/or decoder stacks"
+    ],
+    "self_attention": "Each token attends to all other tokens; captures long-range dependencies better than RNNs",
+    "variants": [
+      "encoder-only (BERT — classification)",
+      "decoder-only (GPT — generation)",
+      "encoder-decoder (T5 — seq2seq)"
+    ],
+    "scalability": "Performance scales predictably with model size, data, and compute (scaling laws)"
+  },
+  {
+    "concept": "AI Ethics and Safety",
+    "description": "Field addressing risks, fairness, and societal impact of AI systems",
+    "concerns": [
+      "bias and discrimination",
+      "privacy violations",
+      "misinformation",
+      "job displacement",
+      "autonomous weapons",
+      "existential risk from superintelligence"
+    ],
+    "frameworks": [
+      "EU AI Act (risk-based regulation)",
+      "NIST AI Risk Management Framework",
+      "Anthropic Constitutional AI"
+    ],
+    "alignment": "Ensuring AI systems pursue goals intended by humans, especially as capability scales",
+    "organizations": [
+      "Anthropic",
+      "OpenAI safety team",
+      "DeepMind safety",
+      "Centre for Human-Compatible AI",
+      "Future of Life Institute"
+    ]
+  },
+  {
+    "concept": "Edge AI and On-Device Inference",
+    "description": "Running AI models locally on devices rather than in the cloud",
+    "benefits": [
+      "privacy preservation",
+      "low latency",
+      "offline capability",
+      "reduced bandwidth",
+      "cost savings"
+    ],
+    "techniques": [
+      "model quantization (FP16, INT8, INT4)",
+      "pruning",
+      "knowledge distillation",
+      "neural architecture search"
+    ],
+    "frameworks": [
+      "TensorFlow Lite",
+      "ONNX Runtime",
+      "Apple Core ML",
+      "Qualcomm AI Engine"
+    ],
+    "examples": [
+      "iPhone face ID",
+      "Google Pixel speech recognition",
+      "Samsung Bixby offline mode"
+    ]
+  }
+]

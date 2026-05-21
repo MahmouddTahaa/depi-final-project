@@ -1,0 +1,185 @@
+[
+  {
+    "concept": "Compound Interest",
+    "description": "Interest calculated on both principal and accumulated interest — the most powerful force in personal finance",
+    "formula": "A = P(1 + r/n)^(nt)",
+    "example": "$10,000 at 7% annual return for 30 years = $76,123 (vs $31,000 simple interest)",
+    "rule_of_72": "Divide 72 by interest rate to find years to double money (72/7% ≈ 10 years)",
+    "key_insight": "Starting early dramatically outweighs contributing more later (time > amount)"
+  },
+  {
+    "concept": "Emergency Fund",
+    "description": "Liquid savings reserve covering 3-6 months of essential living expenses",
+    "where_to_keep": [
+      "high-yield savings account",
+      "money market account",
+      "short-term CDs (for portion)"
+    ],
+    "avoid": [
+      "investing in stocks (too volatile)",
+      "keeping in checking account (low interest)"
+    ],
+    "how_to_build": "Automate monthly transfer; start with $1,000 goal, then build to full amount",
+    "why_critical": "Prevents debt spiral when unexpected expenses occur (job loss, medical, car repair)"
+  },
+  {
+    "concept": "Index Fund Investing",
+    "description": "Passive investing in funds tracking a market index (e.g., S&P 500)",
+    "advantages": [
+      "low fees (expense ratio 0.03-0.20%)",
+      "automatic diversification",
+      "outperforms 80-90% of active managers long-term",
+      "tax efficient",
+      "simple"
+    ],
+    "famous_advocates": "Warren Buffett, Jack Bogle (Vanguard founder)",
+    "vs_active": "Average active fund underperforms index after fees over 10+ year periods",
+    "key_funds": [
+      "Vanguard Total Stock Market (VTI)",
+      "Vanguard S&P 500 (VOO)",
+      "Fidelity Zero funds"
+    ]
+  },
+  {
+    "concept": "Tax-Advantaged Accounts (US)",
+    "types": [
+      {
+        "401k": "employer-sponsored; 2024 limit $23,000; pre-tax or Roth"
+      },
+      {
+        "IRA": "individual; 2024 limit $7,000; Traditional (pre-tax) or Roth (post-tax)"
+      },
+      {
+        "HSA": "health savings; triple tax advantage; 2024 limit $4,150 individual"
+      },
+      {
+        "529": "education savings; state tax deduction; tax-free growth for education"
+      }
+    ],
+    "priority_order": "1. 401k to employer match → 2. HSA → 3. Roth IRA → 4. Max 401k → 5. Taxable brokerage",
+    "key_benefit": "Tax-deferred or tax-free growth significantly boosts long-term returns"
+  },
+  {
+    "concept": "Debt Management",
+    "types": [
+      {
+        "good_debt": "mortgage, student loans, business loans — productive use, often lower rates"
+      },
+      {
+        "bad_debt": "credit cards, payday loans, car loans for depreciating assets — high rates"
+      }
+    ],
+    "payoff_strategies": [
+      "avalanche: highest interest first (mathematically optimal)",
+      "snowball: smallest balance first (psychologically motivating)"
+    ],
+    "credit_card_trap": "18-28% APR; minimum payments extend payoff by years",
+    "debt_to_income": "Keep below 36% for financial health; mortgage lenders prefer <28% for housing costs"
+  },
+  {
+    "concept": "Asset Allocation",
+    "description": "Dividing investment portfolio among asset classes to balance risk and return",
+    "classes": [
+      "equities (stocks)",
+      "fixed income (bonds)",
+      "real estate",
+      "cash/equivalents",
+      "commodities",
+      "alternatives"
+    ],
+    "age_rule": "Traditional: 110 minus age = % in stocks; modern: 120-age (longer life expectancy)",
+    "risk_profiles": [
+      "aggressive: 80-100% stocks",
+      "moderate: 60/40 stocks/bonds",
+      "conservative: 30/70 or more bonds"
+    ],
+    "rebalancing": "Annually or when allocation drifts >5% from target"
+  },
+  {
+    "concept": "Credit Score (FICO)",
+    "description": "Numerical representation of creditworthiness (300-850); used for loans, rentals, employment",
+    "factors": [
+      "payment history 35%",
+      "amounts owed 30%",
+      "length of credit history 15%",
+      "new credit 10%",
+      "credit mix 10%"
+    ],
+    "score_ranges": [
+      "800-850: exceptional",
+      "740-799: very good",
+      "670-739: good",
+      "580-669: fair",
+      "below 580: poor"
+    ],
+    "improve_score": [
+      "pay on time always",
+      "keep utilization <30% (<10% ideal)",
+      "don't close old accounts",
+      "limit hard inquiries"
+    ],
+    "free_monitoring": "AnnualCreditReport.com (free official); Credit Karma, Experian app"
+  },
+  {
+    "concept": "Insurance Fundamentals",
+    "types": [
+      "health (most critical)",
+      "life (if dependents)",
+      "disability (most overlooked)",
+      "auto",
+      "homeowners/renters",
+      "umbrella"
+    ],
+    "key_terms": [
+      "premium: monthly payment",
+      "deductible: what you pay before insurance kicks in",
+      "copay: fixed per-visit cost",
+      "coinsurance: % you pay after deductible",
+      "OOP max: maximum you pay per year"
+    ],
+    "disability_importance": "40% chance of 3+ month disability before age 65; income is your greatest asset",
+    "life_insurance": "Term life preferred over whole life for most people; 10-12x annual income in coverage"
+  },
+  {
+    "concept": "Inflation",
+    "description": "General increase in price level reducing purchasing power over time",
+    "US_average": "~3% historically; peaked 9.1% in June 2022, moderating to ~3% by 2024",
+    "causes": [
+      "demand-pull (excess demand)",
+      "cost-push (supply chain)",
+      "monetary (excess money supply)",
+      "expectations"
+    ],
+    "protection": [
+      "equities (stocks outpace inflation long-term)",
+      "real estate",
+      "TIPS (Treasury Inflation-Protected Securities)",
+      "I-bonds",
+      "commodities"
+    ],
+    "rule_of_72": "At 3% inflation, purchasing power halves in ~24 years"
+  },
+  {
+    "concept": "Behavioral Finance",
+    "description": "Study of psychological influences on financial decisions",
+    "biases": [
+      "loss aversion: losses feel 2x worse than equivalent gains",
+      "recency bias: overweighting recent events",
+      "herd mentality: following crowd",
+      "overconfidence: overestimating ability",
+      "mental accounting: treating money differently based on source"
+    ],
+    "consequences": [
+      "panic selling in market downturns",
+      "overtrading",
+      "underinsurance",
+      "holding losing stocks too long (disposition effect)"
+    ],
+    "solutions": [
+      "automate investments (remove emotion)",
+      "pre-commit to rules",
+      "use index funds",
+      "focus on long-term goals"
+    ]
+  }
+]

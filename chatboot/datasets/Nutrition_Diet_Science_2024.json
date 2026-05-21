@@ -1,0 +1,230 @@
+[
+  {
+    "nutrient": "Omega-3 Fatty Acids",
+    "types": [
+      "EPA",
+      "DHA (primarily in fish)",
+      "ALA (plant-based)"
+    ],
+    "benefits": [
+      "cardiovascular protection",
+      "anti-inflammatory",
+      "brain health",
+      "reduces triglycerides",
+      "depression support"
+    ],
+    "sources": [
+      "salmon",
+      "mackerel",
+      "sardines",
+      "walnuts",
+      "flaxseeds",
+      "chia seeds"
+    ],
+    "recommended_intake": "250-500mg EPA+DHA/day (adults)",
+    "deficiency_signs": [
+      "dry skin",
+      "poor memory",
+      "joint pain",
+      "fatigue"
+    ]
+  },
+  {
+    "nutrient": "Vitamin D",
+    "types": [
+      "D2 (ergocalciferol)",
+      "D3 (cholecalciferol — most effective)"
+    ],
+    "functions": [
+      "bone mineralization",
+      "immune regulation",
+      "mood regulation",
+      "muscle function",
+      "calcium absorption"
+    ],
+    "sources": [
+      "sunlight (skin synthesis)",
+      "fatty fish",
+      "fortified milk",
+      "egg yolks",
+      "supplements"
+    ],
+    "deficiency": "Affects ~1 billion people globally; linked to depression, osteoporosis, infections",
+    "testing": "25-hydroxyvitamin D blood test; optimal: 40-60 ng/mL",
+    "recommended_intake": "600-800 IU/day; up to 2000 IU for deficient adults"
+  },
+  {
+    "nutrient": "Protein",
+    "functions": [
+      "muscle synthesis",
+      "enzyme production",
+      "immune antibodies",
+      "hormone production",
+      "cellular repair"
+    ],
+    "complete_sources": [
+      "meat",
+      "fish",
+      "eggs",
+      "dairy",
+      "quinoa",
+      "soy"
+    ],
+    "incomplete_sources": [
+      "legumes",
+      "grains",
+      "nuts (combine for complete amino acid profile)"
+    ],
+    "recommended_intake": "0.8g/kg body weight (sedentary); 1.2-2.0g/kg for active individuals",
+    "amino_acids": "9 essential: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine"
+  },
+  {
+    "diet": "Mediterranean Diet",
+    "description": "Plant-forward eating pattern associated with longevity and chronic disease prevention",
+    "key_components": [
+      "olive oil as primary fat",
+      "abundant vegetables and fruits",
+      "whole grains",
+      "legumes",
+      "nuts",
+      "fish 2x/week",
+      "limited red meat",
+      "moderate red wine (optional)"
+    ],
+    "evidence": "Reduces cardiovascular disease risk by 30% (PREDIMED trial), reduces dementia risk, anti-inflammatory",
+    "who_benefits": "General population; especially beneficial for cardiovascular and metabolic health"
+  },
+  {
+    "diet": "Ketogenic Diet",
+    "description": "Very low-carbohydrate, high-fat diet inducing ketosis (fat-burning metabolic state)",
+    "macros": "Fat: 70-80%, Protein: 15-20%, Carbs: 5-10% (<50g/day)",
+    "benefits": [
+      "weight loss",
+      "seizure control (gold standard for drug-resistant epilepsy)",
+      "blood sugar management"
+    ],
+    "risks": [
+      "keto flu initially",
+      "nutrient deficiencies",
+      "kidney stones",
+      "high LDL in some"
+    ],
+    "evidence": "Strong for epilepsy; mixed for long-term weight loss vs other diets"
+  },
+  {
+    "nutrient": "Fiber",
+    "types": [
+      "soluble (oats, beans, psyllium — lowers cholesterol)",
+      "insoluble (vegetables, whole grains — digestive motility)"
+    ],
+    "benefits": [
+      "gut microbiome health",
+      "blood sugar regulation",
+      "cholesterol reduction",
+      "satiety",
+      "colon cancer prevention"
+    ],
+    "sources": [
+      "lentils (16g/cup)",
+      "chia seeds (10g/2tbsp)",
+      "black beans (15g/cup)",
+      "avocado (10g each)",
+      "broccoli (5g/cup)"
+    ],
+    "recommended_intake": "25g/day (women), 38g/day (men); most adults get only ~15g",
+    "gut_health": "Fermented by microbiome to produce short-chain fatty acids (butyrate, propionate)"
+  },
+  {
+    "topic": "Gut Microbiome",
+    "description": "Trillions of microorganisms in digestive tract affecting health far beyond digestion",
+    "functions": [
+      "immune system training (70% of immune tissue in gut)",
+      "neurotransmitter production (95% of serotonin)",
+      "vitamin synthesis (K2, B12)",
+      "inflammation regulation"
+    ],
+    "gut_brain_axis": "Bidirectional communication via vagus nerve, immune signals, metabolites",
+    "diversity_promoters": [
+      "varied plant foods (30+ types/week)",
+      "fermented foods",
+      "prebiotics",
+      "limit processed food/antibiotics"
+    ],
+    "dysbiosis_linked_to": [
+      "IBD",
+      "obesity",
+      "type 2 diabetes",
+      "depression",
+      "autism",
+      "allergies"
+    ]
+  },
+  {
+    "topic": "Intermittent Fasting",
+    "protocols": [
+      "16:8 (fast 16h, eat 8h window)",
+      "5:2 (normal eating 5 days, 500kcal 2 days)",
+      "OMAD (one meal a day)",
+      "Alternate Day Fasting"
+    ],
+    "mechanisms": [
+      "insulin reduction",
+      "autophagy (cellular cleanup)",
+      "metabolic switching to fat oxidation",
+      "BDNF increase"
+    ],
+    "evidence": "Comparable to caloric restriction for weight loss; possible metabolic benefits",
+    "considerations": [
+      "not suitable for pregnant women, diabetics on insulin",
+      "may worsen disordered eating",
+      "electrolyte balance important"
+    ],
+    "research_status": "Promising; long-term human RCTs still limited"
+  },
+  {
+    "topic": "Sugar and Health",
+    "types": [
+      "naturally occurring (fruit, dairy — with fiber/nutrients)",
+      "added sugars (processed foods — concern)"
+    ],
+    "daily_limit": "WHO: <25g (6 tsp) added sugar/day; US average: 77g/day",
+    "health_effects": [
+      "dental caries",
+      "obesity",
+      "type 2 diabetes",
+      "non-alcoholic fatty liver disease",
+      "cardiovascular disease"
+    ],
+    "hidden_sources": [
+      "flavored yogurt (~26g/serving)",
+      "tomato sauce (~12g/cup)",
+      "sports drinks (~34g/bottle)",
+      "breakfast cereals"
+    ],
+    "alternatives": [
+      "stevia (zero calorie, no glycemic impact)",
+      "monk fruit",
+      "erythritol"
+    ]
+  },
+  {
+    "topic": "Hydration",
+    "daily_needs": "~3.7L for men, ~2.7L for women (all fluids including food)",
+    "dehydration_signs": [
+      "dark urine",
+      "headache",
+      "fatigue",
+      "poor concentration",
+      "dizziness"
+    ],
+    "optimal_urine_color": "Pale straw yellow (3-4 on color chart)",
+    "electrolytes": [
+      "sodium",
+      "potassium",
+      "magnesium",
+      "chloride — important during exercise or heat"
+    ],
+    "coffee_and_hydration": "Moderate coffee (3-4 cups) does not cause net dehydration",
+    "when_to_drink_more": "exercise, hot weather, illness, pregnancy, breastfeeding, high altitude"
+  }
+]

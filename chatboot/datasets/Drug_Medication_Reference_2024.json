@@ -1,0 +1,180 @@
+[
+  {
+    "drug_class": "Statins",
+    "examples": [
+      "atorvastatin (Lipitor)",
+      "rosuvastatin (Crestor)",
+      "simvastatin (Zocor)",
+      "pravastatin"
+    ],
+    "mechanism": "HMG-CoA reductase inhibitors; block cholesterol synthesis in liver",
+    "uses": [
+      "high LDL cholesterol",
+      "cardiovascular disease prevention",
+      "post-MI/stroke secondary prevention"
+    ],
+    "side_effects": [
+      "myopathy/myalgia (muscle pain)",
+      "elevated liver enzymes (rare)",
+      "new-onset diabetes risk (small)",
+      "rhabdomyolysis (rare but serious)"
+    ],
+    "interactions": "Avoid grapefruit juice (CYP3A4); caution with fibrates, niacin, certain antibiotics",
+    "monitoring": "LFTs at baseline; CK if muscle symptoms; LDL target <70 mg/dL for high-risk"
+  },
+  {
+    "drug_class": "SSRIs (Selective Serotonin Reuptake Inhibitors)",
+    "examples": [
+      "sertraline (Zoloft)",
+      "fluoxetine (Prozac)",
+      "escitalopram (Lexapro)",
+      "paroxetine (Paxil)",
+      "citalopram (Celexa)"
+    ],
+    "mechanism": "Block serotonin reuptake, increasing synaptic serotonin",
+    "uses": [
+      "major depression",
+      "anxiety disorders",
+      "OCD",
+      "PTSD",
+      "panic disorder",
+      "PMDD"
+    ],
+    "onset": "4-6 weeks for full effect; early side effects often resolve in 2 weeks",
+    "side_effects": [
+      "nausea (initial)",
+      "sexual dysfunction (persistent)",
+      "insomnia or somnolence",
+      "weight changes",
+      "discontinuation syndrome"
+    ],
+    "black_box": "Increased suicidal ideation in patients <25 — monitor closely first 4 weeks"
+  },
+  {
+    "drug_class": "ACE Inhibitors",
+    "examples": [
+      "lisinopril",
+      "enalapril",
+      "ramipril",
+      "captopril",
+      "perindopril"
+    ],
+    "mechanism": "Block angiotensin-converting enzyme; prevent angiotensin I → II; reduce vasoconstriction",
+    "uses": [
+      "hypertension",
+      "heart failure",
+      "post-MI",
+      "diabetic nephropathy",
+      "CKD protection"
+    ],
+    "side_effects": [
+      "dry persistent cough (10-15%; class effect)",
+      "hyperkalemia",
+      "angioedema (rare but serious — discontinue immediately)",
+      "hypotension first dose"
+    ],
+    "contraindications": "Pregnancy (teratogenic), bilateral renal artery stenosis, prior angioedema",
+    "monitoring": "Potassium and creatinine within 1-2 weeks of starting"
+  },
+  {
+    "drug_class": "Metformin",
+    "brand": "Glucophage",
+    "mechanism": "Reduces hepatic glucose production; improves insulin sensitivity; activates AMPK",
+    "uses": [
+      "type 2 diabetes first-line",
+      "prediabetes prevention",
+      "PCOS (off-label)",
+      "longevity research (TAME trial)"
+    ],
+    "advantages": [
+      "weight neutral or modest weight loss",
+      "no hypoglycemia risk alone",
+      "cardiovascular benefit (UKPDS)",
+      "low cost",
+      "decades of safety data"
+    ],
+    "side_effects": [
+      "GI upset (nausea, diarrhea) — start low, take with food, use XR formulation",
+      "lactic acidosis (rare; contraindicated in eGFR <30)"
+    ],
+    "vitamin_B12": "Long-term use depletes B12; monitor annually"
+  },
+  {
+    "drug_class": "Antibiotics — Penicillins",
+    "examples": [
+      "amoxicillin",
+      "amoxicillin-clavulanate (Augmentin)",
+      "penicillin V",
+      "piperacillin-tazobactam (Pip-Tazo)"
+    ],
+    "mechanism": "Inhibit bacterial cell wall synthesis (beta-lactam ring binds PBPs)",
+    "uses": [
+      "strep throat",
+      "ear infections",
+      "UTIs (amoxicillin)",
+      "skin infections",
+      "respiratory infections"
+    ],
+    "resistance": "Beta-lactamase producing bacteria resistant (clavulanate overcomes this)",
+    "allergy": "PCN allergy reported in 10% but true allergy in <1% after testing; cross-reactivity with cephalosporins ~2%",
+    "complete_course": "Always finish antibiotics even if feeling better to prevent resistance"
+  },
+  {
+    "drug_class": "NSAIDs (Non-Steroidal Anti-Inflammatory Drugs)",
+    "examples": [
+      "ibuprofen (Advil)",
+      "naproxen (Aleve)",
+      "celecoxib (Celebrex — COX-2 selective)",
+      "diclofenac",
+      "ketorolac"
+    ],
+    "mechanism": "Inhibit COX-1 and COX-2; reduce prostaglandin synthesis (pain, fever, inflammation)",
+    "uses": [
+      "pain",
+      "fever",
+      "inflammation",
+      "dysmenorrhea",
+      "arthritis"
+    ],
+    "risks": [
+      "GI ulcers/bleeding (especially with aspirin/steroids)",
+      "cardiovascular events (celecoxib lower GI risk but higher CV)",
+      "renal toxicity",
+      "fluid retention"
+    ],
+    "take_with_food": "Always take with food or PPI if prolonged use; use lowest dose shortest time",
+    "contraindications": "Avoid in pregnancy (especially 3rd trimester), eGFR <30, aspirin-exacerbated respiratory disease"
+  },
+  {
+    "drug_class": "Corticosteroids",
+    "systemic_examples": [
+      "prednisone",
+      "methylprednisolone",
+      "dexamethasone",
+      "hydrocortisone"
+    ],
+    "mechanism": "Bind glucocorticoid receptors; suppress immune system; anti-inflammatory",
+    "uses": [
+      "asthma exacerbation",
+      "severe allergic reactions",
+      "autoimmune conditions",
+      "cancer treatment",
+      "organ transplant rejection",
+      "COVID-19 (dexamethasone)"
+    ],
+    "short_term_side_effects": [
+      "hyperglycemia",
+      "mood changes/insomnia",
+      "fluid retention",
+      "increased infection risk"
+    ],
+    "long_term_side_effects": [
+      "osteoporosis",
+      "adrenal suppression",
+      "Cushing's syndrome",
+      "cataracts",
+      "muscle weakness"
+    ],
+    "taper": "Never stop abruptly after >2-3 weeks; must taper to prevent adrenal crisis"
+  }
+]

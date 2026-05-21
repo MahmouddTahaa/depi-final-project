@@ -1,0 +1,33 @@
+# ── Streamlit app ────────────────────────────────────────────────────
+streamlit>=1.30,<2.0
+pandas>=2.0
+python-dotenv>=1.0                # load .env files
+
+# ── Core ML / DL ────────────────────────────────────────────────────
+numpy>=1.24
+scikit-learn>=1.3
+sentence-transformers>=2.5      # MiniLM embeddings + cross-encoder reranker
+faiss-cpu>=1.7.4                # vector index (use faiss-gpu if you have CUDA)
+rank-bm25>=0.2.2                # BM25 sparse retrieval
+
+# ── NLP ──────────────────────────────────────────────────────────────
+spacy>=3.7
+vaderSentiment>=3.3.2
+
+# ── Computer Vision ──────────────────────────────────────────────────
+opencv-python>=4.9
+pytesseract>=0.3.10              # also requires the Tesseract binary on your system
+Pillow>=10.0
+pdf2image>=1.16                  # requires Poppler binary on your system
+
+# ── Evaluation metrics ───────────────────────────────────────────────
+rouge-score>=0.1.2
+# bert-score>=0.3.13             # optional — uncomment to enable BERTScore (heavy)
+
+# ── LLM providers (all optional — extractive fallback always works) ─
+anthropic>=0.39                  # for Claude
+openai>=1.40                     # for GPT
+# ollama runs locally — no Python package needed (uses HTTP)
+
+# ── After installing, also run: ──────────────────────────────────────
+#   python -m spacy download en_core_web_sm
